@@ -1,0 +1,8 @@
+tqdm
+pymongo
+pysocks
+requests
+stem
+scrapy
+scrapy_fake_useragent 
+slugify

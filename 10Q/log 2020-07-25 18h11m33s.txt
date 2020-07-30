@@ -1,0 +1,45 @@
+File with CIK: 0000313368 and Acc_No: 0000950152-95-002069 is unavailable
+File with CIK: 0000313368 and Acc_No: 0000950152-95-001263 is unavailable
+Request failed with error code 404
+Failed URL: http://www.sec.gov/Archives/edgar/data/0000723527/000100547701003304/0001.txt
+Request failed with error code 404
+Failed URL: http://www.sec.gov/Archives/edgar/data/0000723527/000093176300002561/0001.txt
+Request failed with error code 404
+Failed URL: http://www.sec.gov/Archives/edgar/data/0000723527/000093176300002037/0001.txt
+File with CIK: 0000723527 and Acc_No: 0000931763-00-001358 is unavailable
+File with CIK: 0000723527 and Acc_No: 0000931763-99-003243 is unavailable
+File with CIK: 0000723527 and Acc_No: 0000950134-99-007487 is unavailable
+File with CIK: 0000723527 and Acc_No: 0000950134-99-004355 is unavailable
+File with CIK: 0000723527 and Acc_No: 0000950134-98-009039 is unavailable
+File with CIK: 0000723527 and Acc_No: 0001005477-98-002534 is unavailable
+File with CIK: 0000723527 and Acc_No: 0000950134-98-004492 is unavailable
+File with CIK: 0000723527 and Acc_No: 0000950134-97-008611 is unavailable
+File with CIK: 0000723527 and Acc_No: 0000950134-97-006171 is unavailable
+File with CIK: 0000723527 and Acc_No: 0000931763-97-000856 is unavailable
+File with CIK: 0000723527 and Acc_No: 0000950134-96-005961 is unavailable
+File with CIK: 0000723527 and Acc_No: 0000950134-96-004316 is unavailable
+File with CIK: 0000723527 and Acc_No: 0000950138-96-000119 is unavailable
+File with CIK: 0000723527 and Acc_No: 0000950134-95-002936 is unavailable
+File with CIK: 0000723527 and Acc_No: 0000950134-95-001912 is unavailable
+File with CIK: 0000723527 and Acc_No: 0000950134-95-001149 is unavailable
+Request failed with error code 404
+Failed URL: http://www.sec.gov/Archives/edgar/data/0000109471/000095016800002589/0001.txt
+Request failed with error code 404
+Failed URL: http://www.sec.gov/Archives/edgar/data/0000109471/000101684300000731/0001.txt
+Request failed with error code 404
+Failed URL: http://www.sec.gov/Archives/edgar/data/0000109471/000104291000001188/0001.txt
+File with CIK: 0000109471 and Acc_No: 0001042910-99-001746 is unavailable
+File with CIK: 0000109471 and Acc_No: 0001042910-99-001234 is unavailable
+File with CIK: 0000109471 and Acc_No: 0001042910-99-000754 is unavailable
+File with CIK: 0000109471 and Acc_No: 0001042910-98-001221 is unavailable
+File with CIK: 0000109471 and Acc_No: 0001042910-98-000890 is unavailable
+File with CIK: 0000109471 and Acc_No: 0001042910-98-000567 is unavailable
+File with CIK: 0000109471 and Acc_No: 0000949459-97-000565 is unavailable
+File with CIK: 0000109471 and Acc_No: 0000949459-97-000447 is unavailable
+File with CIK: 0000109471 and Acc_No: 0000949459-97-000299 is unavailable
+File with CIK: 0000109471 and Acc_No: 0000949459-96-000250 is unavailable
+File with CIK: 0000109471 and Acc_No: 0000949459-96-000156 is unavailable
+File with CIK: 0000109471 and Acc_No: 0000949459-96-000056 is unavailable
+File with CIK: 0000109471 and Acc_No: 0000949459-95-000011 is unavailable
+File with CIK: 0000109471 and Acc_No: 0000109471-95-000006 is unavailable
+File with CIK: 0000109471 and Acc_No: 0000950144-95-001624 is unavailable

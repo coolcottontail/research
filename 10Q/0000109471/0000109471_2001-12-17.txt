@@ -1,0 +1,487 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>d10q.txt
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+<PAGE>
+
+                                   FORM 10-Q
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                             Washington D.C. 20549
+
+
+                 QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+       FOR QUARTER ENDED  October 31, 2001  COMMISSION FILE NO.  0-4988
+                        --------------------                  ---------
+
+                             AEROSONIC CORPORATION
+                             ---------------------
+            (Exact name of registrant as specified in its charter)
+
+               DELAWARE                                    74-1668471
+     -------------------------------                   -------------------
+     (State or other jurisdiction of                    (I.R.S. Employer
+     incorporation or organization)                    Identification No.)
+
+       1212 No. Hercules Avenue, Clearwater, Florida              33765
+       ----------------------------------------------------------------
+       (Address of principal executive offices)              (Zip Code)
+
+                                (727) 461-3000
+                                --------------
+             (Registrant's telephone number, including Area Code)
+
+                                Non applicable
+                                --------------
+  (Former name, former address and former fiscal year, if changed since last
+                                    report)
+
+Indicate by check mark whether registrant (1) has filed all reports required to
+ be filed by section 13 or 15 (d) of the Securities Exchange Act of 1934 during
+  the preceding 12 months (or for such shorter period that the registrant was
+    required to file such reports), and (2) has been subject to such filing
+                       requirements for the past 90 days.
+
+                               YES  X    NO____
+                                  -----
+
+ Indicate the number of shares outstanding of each of the issuer's classes of
+               common stock, as of the latest practicable date.
+
+Common Stock, par value $.40 per share, 3,986,262 number of shares as of October
+                                   31, 2001.
+<PAGE>
+
+                                     INDEX
+
+                             AEROSONIC CORPORATION
+
+                                                                        Page No.
+                                                                        -------
+
+PART 1.  FINANCIAL INFORMATION
+------   ---------------------
+
+
+Item 1.  Condensed Consolidated Financial Statements
+
+         Condensed Consolidated Balance Sheets -                         3
+            October 31, 2001 and January 31, 2001
+
+         Condensed Consolidated Statements of Income -                   4
+            Three and nine months ended October 31, 2001 and 2000
+
+         Condensed Consolidated Statements of Cash Flows -               5
+            Nine months ended October 31, 2001 and 2000
+
+         Notes to Condensed Consolidated Financial Statements -          6
+            October 31, 2001
+
+Item 2.  Management's Discussion and Analysis of                       7 - 8
+            Financial Condition and Results of Operations
+
+
+PART II.  OTHER INFORMATION
+---------------------------
+
+Item 6.  Exhibits and Reports on Form 8-K                               9
+
+SIGNATURES                                                             10
+----------
+<PAGE>
+
+PART 1.  FINANCIAL INFORMATION
+------------------------------
+
+Item 1.  Consolidated Financial Statements
+
+Aerosonic Corporation and Subsidiary
+    Consolidated Balance Sheets
+
+<TABLE>
+<CAPTION>
+                                                                         October 31,
+                                                                            2001           January 31,
+                                                                         (unaudited)          2001
+                                                                       ---------------   ---------------
+ASSETS
+
+Current assets:
+<S>                                                                    <C>               <C>
+     Cash and cash investments                                         $       919,000   $     1,077,000
+     Accounts receivable                                                     5,953,000         5,055,000
+     Inventory                                                              10,021,000         9,949,000
+     Prepaid expenses                                                          175,000           122,000
+     Deferred income tax benefit                                               295,000           295,000
+                                                                       ---------------   ---------------
+
+              Total current assets                                          17,363,000        16,498,000
+
+Property, plant and equipment, net                                           4,315,000         4,157,000
+Other assets                                                                   621,000           818,000
+                                                                       ---------------   ---------------
+
+                                                                       $    22,299,000   $    21,473,000
+                                                                       ===============   ===============
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+
+Current liabilities:
+     Current installments of long-term debt and notes payable          $     1,029,000   $     1,019,000
+     Revolving credit facilities                                               500,000                 0
+     Accounts payable, trade                                                 1,172,000         1,252,000
+     Compensation and benefits                                                 712,000           849,000
+     Income taxes payable                                                      220,000           153,000
+     Other accrued expenses                                                  1,055,000           621,000
+                                                                       ---------------   ---------------
+
+              Total current liabilities                                      4,688,000         3,894,000
+
+Long-term debt, less current installments                                    3,605,000         4,335,000
+Deferred income taxes                                                          113,000           113,000
+                                                                       ---------------   ---------------
+
+              Total liabilities                                              8,406,000         8,342,000
+                                                                       ---------------   ---------------
+
+Shareholders' equity:
+     Common stock, $.40 par; 8,000,000 shares
+        authorized; 3,986,262 shares issued                                  1,595,000         1,595,000
+     Additional paid-in capital                                              4,458,000         4,457,000
+     Retained earnings                                                       8,461,000         7,700,000
+     Less treasury stock, 66,417 shares and 66,417 shares
+        at 1/31/01 and 10/31/01, respectively, at cost                        (621,000)         (621,000)
+                                                                       ---------------   ---------------
+
+              Total shareholders' equity                                    13,893,000        13,131,000
+                                                                       ---------------   ---------------
+
+                                                                       $    22,299,000   $    21,473,000
+                                                                       ===============   ===============
+</TABLE>
+
+              Note: The balance sheet at January 31, 2001 has been derived from
+              the audited financial statements at this date.
+
+              See Notes to Consolidated Financial Statements.
+
+                                       3
+<PAGE>
+
+Aerosonic Corporation and Subsidiary
+     Consolidated Statements of Income (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                    Three Months Ended                   Nine Months Ended
+                                                        October 31,                          October 31,
+                                              -------------------------------     ---------------------------------
+                                                   2001             2000               2001               2000
+                                              -------------     -------------     --------------     --------------
+<S>                                           <C>               <C>               <C>                <C>
+Net sales                                     $   6,994,000     $   5,706,000     $   20,947,000     $   17,822,000
+
+Cost of goods sold                                4,656,000         3,626,000         13,428,000         11,698,000
+                                              -------------     -------------     --------------     --------------
+
+           Gross profit                           2,338,000         2,080,000          7,519,000          6,124,000
+
+Selling, general and administrative
+     expenses                                     1,895,000         2,258,000          5,931,000          5,720,000
+                                              -------------     -------------     --------------     --------------
+
+           Operating income                         443,000          (178,000)         1,588,000            404,000
+                                              -------------     -------------     --------------     --------------
+
+Other (income) deductions:
+     Interest  expense, net                          99,000           148,000            327,000            379,000
+     Other, net                                      10,000            (4,000)            14,000             (5,000)
+                                              -------------     -------------     --------------     --------------
+                                                    109,000           144,000            341,000            374,000
+                                              -------------     -------------     --------------     --------------
+
+Income before income taxes                          334,000          (322,000)         1,247,000             30,000
+
+Income tax expense                                  130,000          (129,000)           486,000             12,000
+                                              -------------     -------------     --------------     --------------
+
+           Net income                         $     204,000     $    (193,000)    $      761,000     $       18,000
+                                              =============     =============     ==============     ==============
+
+
+Earnings per share:                           $        0.05     $       (0.05)              0.19     $         0.00
+                                              =============     =============     ==============     ==============
+
+Basic and Diluted weighted
+     average shares outstanding                   3,920,000         3,922,000          3,920,000          3,917,000
+                                              =============     =============     ==============     ==============
+</TABLE>
+
+     See Notes to Consolidated Financial Statements
+
+
+                                       4
+<PAGE>
+
+Aerosonic Corporation and Subsidiary
+      Consolidated Statements of Cash Flows (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                Nine months ended
+                                                                                    October 31
+                                                                         --------------------------------
+                                                                              2001              2000
+                                                                         -------------     --------------
+<S>                                                                      <C>               <C>
+Cash flows from operating activities:
+
+     Net income                                                          $    761,000      $     18,000
+     Adjustment to reconcile net income to net
+       cash provided by (used in) operating activities:
+            Depreciation and amortization                                     597,000           534,000
+            Stock compensation                                                                  188,000
+            Change in current assets and liabilities                         (739,000)          218,000
+                                                                         ------------      ------------
+
+     Net cash provided by (used in) operating activities                      619,000           958,000
+                                                                         ------------      ------------
+Cash flows from investing activities:
+
+     Purchase of property, plant and equipment                               (681,000)         (195,000)
+     Changes in other assets                                                  134,000          (114,000)
+                                                                         ------------      ------------
+
+     Net cash used in investing activities                                   (547,000)         (309,000)
+                                                                         ------------      ------------
+Cash flows from financing activities:
+
+     Proceeds from/(repayment on) long-term debt
+        and notes payable                                                    (230,000)         (453,000)
+     Purchase of treasury stock                                                     0          (151,000)
+                                                                         ------------      ------------
+
+     Net cash provided by (used in) financing activities                     (230,000)         (604,000)
+                                                                         ------------      ------------
+
+Net increase (decrease)  in cash and cash investments                        (158,000)           45,000
+
+Cash and cash investments, beginning of period                              1,077,000           964,000
+                                                                         ------------      ------------
+
+Cash and cash investments, end of period                                 $    919,000      $  1,009,000
+                                                                         ============      ============
+     Cash paid for:
+          Interest                                                       $    320,000      $    352,000
+                                                                         ============      ============
+
+          Income taxes                                                   $    418,000      $     70,000
+                                                                         ============      ============
+</TABLE>
+
+      See notes to consolidated financial statements
+
+                                       5
+<PAGE>
+
+AEROSONIC CORPORATION
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+OCTOBER 31, 2001
+
+NOTE A - BASIS OF PRESENTATION
+------------------------------
+
+The accompanying unaudited condensed consolidated financial statements have been
+prepared in accordance with generally accepted accounting principles for interim
+financial reporting and with the instructions to form 10-Q of regulation S-X.
+Accordingly, they do not include all of the information and footnotes required
+by generally accepted accounting principles for complete financial statements.
+In the opinion of management, all adjustments (consisting of normal recurring
+accruals) considered necessary for a fair presentation have been included.
+Operating results for the three- and nine-month periods ended October 31, 2001
+are not necessarily indicative of the results that may be expected for the year
+ended January 31, 2002. For further information, refer to the consolidated
+financial statements and footnotes thereto included in the Company's annual
+report on form 10-K for the year ended January 31, 2001.
+
+NOTE B - ENVIRONMENTAL MATTERS
+------------------------------
+
+As reported in the annual report on form 10-K for the fiscal year ended January
+31, 2001, in accordance with a consent agreement signed by the Company in 1993,
+the Company's environmental consultant has developed an interim remedial action
+plan to contain and remediate certain contamination on and underlying the
+Company's property. During 1997 the Company recorded a provision of
+approximately $175,000 related to the estimated costs to be incurred under this
+plan. As of January 31, 2000 the company had utilized all amounts originally
+recorded in Other accrued expenses, and phase-one remediation had been
+completed.
+
+During the third quarter of 2001, management assessed the post-remediation
+monitoring expense related to the environmental cleanup of 1993 would cost
+approximately $125,000. This amount was accrued and expensed during the third
+quarter of Fiscal Year 2001. Approximately $5,000 remains accrued in Other
+accrued expenses at October 31, 2001. Management believes that any additional
+liability for any further remediation will not have a material affect on the
+financial position of the company.
+
+                                       6
+<PAGE>
+
+PART 1.  FINANCIAL INFORMATION
+------------------------------
+
+Item 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULT OF OPERATIONS
+
+Company wide net sales for the third quarter ended October 31, 2001 were
+$6,994,000 as compared to $5,706,000 for the same period in the preceding year.
+Year-to-date net sales for the nine months ended October 31, 2001 were
+$20,947,000 as compared to $17,822,000 in the prior year period. Sales increases
+were due largely to the increased sales of altimeters, airspeed indicators, non-
+warranty instrument repairs, spare parts and riflescope components. Gross profit
+as a percentage of net sales equaled 33% in the third quarter of FY2002 versus
+36% during the same period in the prior year. Gross profit margin, year-to-date,
+through the period ended October 31, 2001 equaled 36% versus 34% during the
+prior year period. The decline in gross profit margin in the third quarter was
+due to a higher concentration of multi-function probe sales to one certain
+customer through Avionics Specialties, Inc., Aerosonic Corporation's wholly -
+owned subsidiary.
+
+Selling, General and Administrative (SG & A) expenses decreased during the third
+quarter ended October 31, 2001 to $1,895,000 as compared to $2,133,000 during
+the same period in the prior fiscal year. As a percentage of net sales SG& A
+decreased to 27% as compared to 37% during the prior year period. SG & A
+year-to-date through the period ended October 31, 2001 increased to $5,931,000
+from $5,595,000 in the prior year period. However, as a percentage of net sales,
+SG & A decreased to 28% of net sales compared to 31% during the prior year
+period. The decreased SG & A expense during the third quarter ended October 31,
+2001 as compared to same period in the prior fiscal year represents a reduction
+in legal expenses and the effort by management in controlling other SG & A
+costs. Year-to-date SG & A for the nine months ended October 31, 2001 increased
+during the year compared to Year to Date prior year due to an increase in legal
+expense during the first and second quarters of FY2002.
+
+Interest expense dropped to $99,000 for the three months ended October 31, 2001
+from $148,000 during the same period in the preceding year. Interest expense
+year-to-date through the period ended October 31, 2001 dropped to $327,000
+versus $379,000 during the prior year period. This reduction is due primarily to
+reduced outstanding debt and lower interest rates.
+
+For the third quarter ended October 31, 2001 the Company recorded a net profit
+of $204,000 or $0.05 per share, compared to a net loss of $193,000, or ($0.05)
+per share during the same period in the preceding year. Earnings year-to-date
+through the period ended October 31, 2001 increased to $761,000, or $0.19 per
+share from $18,000 or $0.00 per share.
+
+Working capital equaled $12,675,000 at October 31, 2001 and the Company's
+current ratio approximated 3.70:1. Cash flow provided by operations was $619,000
+through the third quarter ended October 31, 2001. Company management anticipates
+that cash flow from operations, existing cash balances and the availability
+under the Company's line of credit arrangement will be sufficient to fund future
+growth.
+
+                                       7
+<PAGE>
+
+The primary market risks exposure for the Company is interest rate risk. The
+Company does not currently utilize any financial instruments to manage interest
+rate risk. The Company is exposed to changes in interest rates primarily as a
+result of its variable rate short- and long-term borrowings. A hypothetical 10%
+increase in the Company's weighted average interest rate would have increased
+the Company's interest expense for the third quarter by approximately $9,000
+based on the balance of variable rate debt outstanding at October 31, 2001.
+
+
+
+FORWARD LOOKING STATEMENTS
+
+This document contains statements that constitute "forward-looking" statements
+within the meaning of the Securities Act of 1933 and the Securities Act of 1934,
+as amended by the Private Securities Litigation Reform Act of 1995. "Forward-
+looking" statements contained in this document include the intent, belief or
+current expectations of the Company and its senior management team with respect
+to the future prospects of the Company's operations, and belief concerning
+profits from future operations and the Company's overall future business
+prospects, as well as the assumptions upon which such statements are based.
+Investors are cautioned that any such forward-looking statements are not
+guarantees of future performance, and that actual results may differ materially
+from those contemplated by such forward-looking statements. Important factors
+currently known to management that could cause actual results to differ
+materially from those contemplated by the forward-looking statements in this
+document include, but are not limited to, adverse developments with respect to
+the operations of the Company's business units, failure to meet operating
+objectives or to execute the business plan, and the failure to reach revenue or
+profit projections. The Company undertakes no obligation to update or revise the
+forward-looking statements contained in this document to reflect changed
+assumptions, the occurrence of unanticipated events or changes to future
+operating results over time.
+
+                                       8
+<PAGE>
+
+  PART II.   OTHER INFORMATION
+
+AEROSONIC CORPORATION
+
+
+  Item 1.  LEGAL PROCEEDINGS
+
+  David S. Goldman, former President and Chief Executive Officer of Aerosonic
+  Corporation sued the Company in September 1996, for an alleged breach of a
+  consulting agreement between Mr. Goldman and the Company. The suit seeks
+  damages in excess of $15,000. During fiscal year 1997, the Company sued Mr.
+  Goldman and Mil-Spec Finishers, Inc., a former subcontractor to Aerosonic
+  Corporation controlled by Mr. Goldman, seeking damages in excess of $15,000,
+  for alleged fraud and misappropriation of funds, appropriation of corporate
+  opportunity, breach of fiduciary duty and conversion. The Company filed an
+  amended complaint, adding claims for civil theft against both defendants, in
+  October of 1997. Management believes that the ultimate resolution of this
+  matter will not have a material, negative effect on the financial position of
+  the Company.
+
+Item 6.    EXHIBITS AND REPORTS ON FORM 8-K
+
+             (a) Exhibits
+
+                 None
+
+             (b) Reports on form 8-K
+
+                 The company did not file any report on form 8-K during the
+three months ended October 31, 2001.
+
+                                       9
+<PAGE>
+
+                                  SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+                                              AEROSONIC CORPORATION
+                                              ---------------------
+                                                       (Registrant)
+
+
+
+Date:  December 14, 2001                      /s/ Eric J. McCracken
+     -------------------                      ---------------------
+                                              Eric J. McCracken
+                                              Executive Vice President
+                                              and Chief Financial Officer
+
+
+</TEXT>
+</DOCUMENT>

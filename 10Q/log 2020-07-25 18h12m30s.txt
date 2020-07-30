@@ -1,0 +1,25 @@
+Request failed with error code 404
+Failed URL: http://www.sec.gov/Archives/edgar/data/0001674862/000156459020021890/ash-10q_20200331.htm iXBRL
+Request failed with error code 404
+Failed URL: http://www.sec.gov/Archives/edgar/data/0001674862/000095012320000628/ash-10q_20191231.htm iXBRL
+Request failed with error code 404
+Failed URL: http://www.sec.gov/Archives/edgar/data/0001674862/000156459019027524/ash-10q_20190630.htm iXBRL
+Request failed with error code 404
+Failed URL: http://www.sec.gov/Archives/edgar/data/0000008868/000000886820000013/avp-20200331.htm iXBRL
+Request failed with error code 404
+Failed URL: http://www.sec.gov/Archives/edgar/data/0000008868/000000886819000049/avp-20190930.htm iXBRL
+Request failed with error code 404
+Failed URL: http://www.sec.gov/Archives/edgar/data/0000008868/000000886819000039/a201963010q.htm iXBRL
+Request failed with error code 404
+Failed URL: http://www.sec.gov/Archives/edgar/data/0000008868/000000886819000031/a201933110q.htm iXBRL
+Request failed with error code 404
+Failed URL: http://www.sec.gov/Archives/edgar/data/0000008868/000000886800000008/0001.txt
+Request failed with error code 404
+Failed URL: http://www.sec.gov/Archives/edgar/data/0000008868/000000886800000005/0001.txt
+File with CIK: 0000008868 and Acc_No: 0000008868-00-000002 is unavailable
+File with CIK: 0000008868 and Acc_No: 0000008868-99-000011 is unavailable
+File with CIK: 0000008868 and Acc_No: 0000008868-99-000008 is unavailable
+File with CIK: 0000008868 and Acc_No: 0000008868-99-000006 is unavailable
+File with CIK: 0000008868 and Acc_No: 0000008868-98-000023 is unavailable
+File with CIK: 0000008868 and Acc_No: 0000008868-98-000006 is unavailable
+File with CIK: 0000008868 and Acc_No: 0000008868-98-000004 is unavailable

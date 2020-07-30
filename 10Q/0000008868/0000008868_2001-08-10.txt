@@ -1,0 +1,2099 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>form10q63001.txt
+<DESCRIPTION>AVON PRODUCTS, INC. FORM 10-Q
+<TEXT>
+8/09/01
+
+
+
+
+                                                      CONFORMED COPY
+
+                                  FORM 10-Q
+
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+
+          [x] Quarterly Report Pursuant to Section 13 or 15(d) of the
+                        Securities Exchange Act of 1934
+
+                 For the quarterly period ended June 30, 2001
+
+                                      OR
+
+         [ ] Transition Report Pursuant to Section 13 or 15(d) of the
+                        Securities Exchange Act of 1934
+
+                   For the transition period from ___ to ___
+
+                         Commission file number 1-4881
+
+
+
+                  AVON PRODUCTS, INC.
+ (Exact name of registrant as specified in its
+charter)
+
+
+
+           New York                                        13-0544597
+(State or other jurisdiction of                        (I.R S. Employer
+ Incorporation or organization)                        Identification No.)
+
+
+          1345 Avenue of the Americas, New York, N.Y.  10105-0196
+                   (Address of principal executive offices)
+
+                               (212) 282-5000
+                             (Telephone Number)
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.     Yes   X        No  ___
+
+     The number of shares of Common Stock (par value $.25) outstanding at
+July 31, 2001 was 236,227,584
+
+<Page>
+
+
+
+
+
+                            Table of Contents
+                     Part I.  Financial Information
+
+                                                                     Page
+                                                                  Numbers
+                                                                  -------
+
+Item 1.  Financial Statements
+
+         Consolidated Statements of Operations
+           Three Months Ended June 30, 2001 and
+             June 30, 2000.....................................         3
+           Six Months Ended June 30, 2001 and
+             June 30, 2000...................................           4
+
+         Consolidated Balance Sheets
+           June 30, 2001 and December 31, 2000.................         5
+
+         Consolidated Statements of Cash Flows
+           Six Months Ended June 30, 2001 and
+             June 30, 2000.....................................         6
+
+         Notes to Consolidated Financial Statements.............   7 - 18
+
+
+
+Item 2.  Management's Discussion and Analysis of the
+         Results of Operations and Financial Condition..........  19 - 29
+
+
+
+                   Part II.  Other Information
+
+Item 6.  Exhibits and Reports on Form 8-K.......................       30
+
+Signature ......................................................       31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       2
+<Page>
+                      PART I.  FINANCIAL INFORMATION
+
+                            AVON PRODUCTS, INC.
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+                      (In millions, except per share data)
+
+                                                         Three months ended
+                                                              June 30
+                                                         ------------------
+                                                           2001        2000
+                                                           ----        ----
+                                                            (unaudited)
+
+Net sales...........................................   $1,452.5    $1,382.6
+
+Other revenue.......................................       10.2        10.0
+                                                       --------     -------
+Total revenue.......................................    1,462.7     1,392.6
+
+Costs, expenses and other:
+  Cost of sales  ...................................      522.5       498.6
+  Marketing, distribution and administrative expenses     704.4       673.6
+                                                       --------    --------
+Operating profit....................................      235.8       220.4
+
+  Interest expense..................................       18.9        22.8
+  Interest income...................................       (4.2)       (2.1)
+  Other expense, net................................        7.3         4.6
+                                                       --------    --------
+Total other expense, net ...........................       22.0        25.3
+                                                       --------    --------
+
+Income before taxes and minority interest...........      213.8       195.1
+Income taxes........................................       74.6        69.2
+                                                       --------    --------
+Income before minority interest.....................      139.2       125.9
+Minority interest...................................       (1.5)       (1.0)
+                                                       --------    --------
+Net income .........................................   $  137.7    $  124.9
+                                                       ========    ========
+
+Earnings per share:
+  Basic.............................................   $    .58    $    .53
+                                                       ========    ========
+  Diluted...........................................   $    .57    $    .52
+                                                       ========    ========
+
+The accompanying notes are an integral part of these statements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Page>
+                                       3
+
+                                AVON PRODUCTS, INC.
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+                      (In millions, except per share data)
+
+                                                         Six months ended
+                                                              June 30
+                                                         ------------------
+                                                           2001        2000
+                                                           ----        ----
+                                                            (unaudited)
+
+Net sales...........................................   $2,799.7    $2,689.3
+
+Other revenue.......................................       20.8        20.4
+                                                       --------     -------
+Total revenue.......................................    2,820.5     2,709.7
+
+Costs, expenses and other:
+  Cost of sales  ...................................    1,023.6       989.4
+  Marketing, distribution and administrative expenses   1,415.3     1,362.1
+                                                       --------    --------
+Operating profit....................................      381.6       358.2
+
+  Interest expense..................................       38.6        42.7
+  Interest income...................................       (6.2)       (3.9)
+  Other expense, net................................        8.9        14.8
+                                                       --------    --------
+Total other expense, net ...........................       41.3        53.6
+                                                       --------    --------
+
+Income from continuing operations before taxes,
+  minority interest and cumulative effect
+  of accounting changes.............................      340.3       304.6
+Income taxes........................................      119.1       108.3
+                                                       --------    --------
+Income before minority interest and cumulative
+  effect of accounting changes......................      221.2       196.3
+Minority interest...................................       (1.5)       (1.0)
+                                                       --------    --------
+Income from continuing operations before
+  cumulative effect of accounting changes...........      219.7       195.3
+Cumulative effect of accounting changes, net of taxes      (0.3)       (6.7)
+                                                       --------    --------
+Net income .........................................   $  219.4    $  188.6
+                                                       ========    ========
+
+Basic earnings per share:
+  Continuing operations.............................   $    .92    $    .82
+  Cumulative effect of accounting changes...........          -        (.03)
+                                                       --------    --------
+                                                       $    .92    $    .79
+                                                       ========    ========
+
+Diluted earnings per share:
+  Continuing operations ............................   $    .91    $    .82
+  Cumulative effect of accounting changes...........          -        (.03)
+                                                       --------    --------
+                                                       $    .91    $    .79
+                                                       ========    ========
+
+The accompanying notes are an integral part of these statements.
+
+
+
+
+
+
+
+
+<Page>
+                                     4
+
+                            AVON PRODUCTS, INC.
+                        CONSOLIDATED BALANCE SHEETS
+                               (In millions)
+
+                                                       June 30   December 31
+                                                         2001         2000
+                                                         ----         ----
+                                                            (unaudited)
+
+ASSETS
+Current assets:
+Cash and cash equivalents........................    $  151.7      $  122.7
+Accounts receivable..............................       477.9         499.0
+Income tax receivable ...........................           -          95.2
+Inventories......................................       686.5         610.6
+Prepaid expenses and other.......................       230.9         218.2
+                                                     --------      --------
+Total current assets.............................     1,547.0       1,545.7
+                                                     --------      --------
+
+Property, plant and equipment, at cost...........     1,520.7       1,523.1
+Less accumulated depreciation....................       757.2         754.7
+                                                     --------      --------
+                                                        763.5         768.4
+Other assets.....................................       527.3         512.3
+                                                     --------      --------
+Total assets.....................................    $2,837.8      $2,826.4
+                                                     ========      ========
+LIABILITIES AND SHAREHOLDERS'(DEFICIT)EQUITY
+Current liabilities:
+Debt maturing within one year....................    $  145.6      $  105.4
+Accounts payable.................................       348.9         391.3
+Accrued compensation.............................       106.3         138.2
+Other accrued liabilities........................       244.0         251.7
+Sales and taxes other than income................        92.7         101.1
+Income taxes.....................................       391.5         371.6
+                                                     --------      --------
+Total current liabilities........................     1,329.0       1,359.3
+                                                     --------      --------
+Long-term debt...................................     1,139.0       1,108.2
+Employee benefit plans...........................       383.5         397.2
+Deferred income taxes............................        29.3          31.3
+Other liabilities................................        98.3          95.2
+
+Share repurchase commitments                                -          51.0
+
+Shareholders'(deficit)equity:
+Common stock.....................................        88.8          88.6
+Additional paid-in capital.......................       893.3         824.1
+Retained earnings................................     1,269.1       1,139.8
+Accumulated other comprehensive loss  ...........      (422.2)       (399.1)
+Treasury stock, at cost..........................    (1,970.3)     (1,869.2)
+                                                     --------      --------
+Total shareholders'(deficit)equity...............      (141.3)       (215.8)
+                                                     --------      --------
+Total liabilities and shareholders'(deficit)equity   $2,837.8      $2,826.4
+                                                     ========      ========
+
+The accompanying notes are an integral part of these statements.
+
+
+
+
+
+
+
+
+
+
+<Page>
+                                       5
+
+
+                            AVON PRODUCTS, INC.
+                   CONSOLIDATED STATEMENTS OF CASH FLOWS
+                               (In millions)
+                                                            Six months ended
+                                                                June 30
+                                                           ------------------
+                                                            2001         2000
+                                                            ----         ----
+                                                               (unaudited)
+Cash flows from operating activities:
+Net income.............................................. $ 219.4      $ 188.6
+Adjustments to reconcile net income to net cash provided
+  by (used in) operating activities:
+Special and non-recurring payments......................    (4.1)       (10.1)
+Cumulative effect of accounting changes.................     0.3          6.7
+Depreciation and amortization...........................    53.3         45.9
+Provision for doubtful accounts.........................    52.4         48.2
+Foreign exchange losses.................................     8.1          1.5
+Amortization of debt discount(premium) .................     7.3         (3.3)
+Deferred income taxes...................................    (5.7)         5.1
+Other...................................................     8.2          5.4
+Changes in assets and liabilities:
+  Accounts receivable...................................   (45.2)       (47.5)
+  Income tax receivable.................................    95.2            -
+  Inventories...........................................   (89.0)      (141.6)
+  Prepaid expenses and other............................   (20.0)       (16.3)
+  Accounts payable and accrued liabilities..............   (67.5)      (130.9)
+  Income and other taxes................................    18.3         (5.8)
+  Noncurrent assets and liabilities.....................     3.0         18.1
+                                                          ------       ------
+Net cash provided by(used in) operating activities......   234.0        (36.0)
+                                                          ------       ------
+Cash flows from investing activities:
+Capital expenditures....................................   (68.1)       (76.5)
+Disposal of assets......................................     6.2          5.2
+Other investing activities..............................    (5.3)        (1.1)
+                                                          ------       ------
+Net cash used by investing activities...................   (67.2)       (72.4)
+                                                          ------       ------
+Cash flows from financing activities:
+Cash dividends..........................................   (91.8)       (89.7)
+Book overdraft..........................................    (1.0)        (8.5)
+Debt, net (maturities of three months or less)..........    56.8        221.7
+Proceeds from short-term debt...........................    41.7         25.6
+Retirement of short-term debt...........................   (52.4)       (42.7)
+Retirement of long-term debt............................     (.1)         (.1)
+Repurchase of common stock..............................  (100.3)       (42.1)
+Proceeds from exercise of stock options, net of taxes...    16.7         10.5
+                                                          ------       ------
+Net cash (used in)provided by financing activities......  (130.4)        74.7
+                                                          ------       ------
+Effect of exchange rate changes on cash and equivalents.    (7.4)        (7.8)
+                                                          ------       ------
+Net increase (decrease) in cash and equivalents.........    29.0        (41.5)
+Cash and equivalents at beginning of period.............   122.7        117.4
+                                                          ------       ------
+Cash and equivalents at end of period................... $ 151.7      $  75.9
+                                                         =======       ======
+
+The accompanying notes are an integral part of these statements.
+
+
+
+
+
+
+
+
+<Page>
+                                       6
+
+
+                            AVON PRODUCTS, INC.
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                     (In millions, except share data)
+
+1.  ACCOUNTING POLICIES
+
+    The accompanying Consolidated Financial Statements should be read in
+conjunction with the Consolidated Financial Statements and the Notes thereto
+contained in Avon's 2000 Annual Report to Shareholders. The interim statements
+are unaudited but include all adjustments, consisting of normal recurring
+adjustments, that management considers necessary to fairly present the results
+for the interim periods.  Results for interim periods are not necessarily
+indicative of results for a full year.  The year-end balance sheet data was
+derived from audited financial statements, but does not include all
+disclosures required by generally accepted accounting principles.
+
+     Effective January 1, 2001, the Company adopted Statement of Financial
+Accounting Standards ("FAS") No. 133, "Accounting for Derivative Instruments
+and Hedging Activities", as amended by FAS No. 138, "Accounting for Certain
+Derivative Instruments and Hedging Activities", which establishes accounting
+and reporting standards for derivative instruments and hedging activities.  In
+accordance with the provisions of FAS No. 133, the Company recorded a charge
+to earnings of $0.3, net of a tax benefit of $0.2, in the first quarter of
+2001 to reflect the change in time value of Avon's outstanding options from
+the dates of the options' inception through the date of transition (January 1,
+2001).  The Company also recorded a charge to shareholders' (deficit)equity of
+$3.9, net of a tax benefit of $2.1, included in accumulated other
+comprehensive loss to recognize the fair value of all derivatives designated
+as cash-flow hedging instruments, which the Company expects to reclassify into
+earnings within the next twelve months.  These charges are reflected as a
+cumulative effect of an accounting change in the accompanying Consolidated
+Financial Statements.  See Notes 7 and 11 of the Notes to Consolidated
+Financial Statements.
+
+	Effective January 1, 2000, the Company adopted Staff Accounting Bulletin
+No. 101, "Revenue Recognition in Financial Statements" ("SAB 101").  SAB 101
+provides the Securities and Exchange Commission's views in applying generally
+accepted accounting principles to revenue recognition in the financial
+statements.  As a result of adopting SAB 101, Avon changed its revenue
+recognition policy to recognize revenue upon delivery, when both title and
+risks and rewards of ownership pass to the independent Representative.  In
+accordance with the provisions of SAB 101, the Company recorded a charge to
+earnings of $6.7, net of a tax benefit of $3.5, in the first quarter of 2000
+to reflect the accounting change. This charge is reflected as a cumulative
+effect of an accounting change in the accompanying Consolidated Statements of
+Operations.  Restatements were made to previously reported 2000 quarterly
+information to reflect the adoption of SAB 101.
+
+	For the year ended December 31, 2000, the Company adopted the provisions
+of Emerging Issues Task Force ("EITF") 00-10, "Accounting for Shipping and
+Handling Fees and Costs", which requires that amounts billed to customers for
+shipping and handling fees be classified as revenues.  EITF 00-10 also
+requires the disclosure of the income statement classification of any shipping
+and handling costs.  2000 quarterly information has been restated to reflect
+shipping and handling fees, previously reported in Marketing, distribution &
+administration expenses, in Other revenue in the Consolidated Statements of
+Operations.  For the three months ended June 30, 2001 and 2000, shipping and
+handling costs aggregated $130.8 and $121.5, respectively.  For the six months
+ended June 30, 2001 and 2000, shipping and handling costs aggregated $256.0
+and $240.5, respectively.  These costs are included in Marketing, distribution
+& administrative expenses in the Consolidated Statements of Operations.
+
+
+
+
+
+
+
+<Page>
+                                      7
+
+                            AVON PRODUCTS, INC.
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                     (In millions, except share data)
+
+     In May 2000, the EITF reached a consensus on EITF 00-14, "Accounting for
+Certain Sales Incentives", which provides guidance on accounting for
+discounts, coupons, rebates and free products, as well as the income statement
+classification of these discounts, coupons, rebates and free products.  EITF
+00-14 is effective January 1, 2002, for the Company.  The Company is currently
+evaluating the impact of this new guidance.
+
+     In April 2001, the EITF reached a consensus on EITF 00-25, "Accounting
+for Consideration from a Vendor to a Retailer in Connection with the Purchase
+or Promotion of the Vendor's Products", which provides guidance on the income
+statement classification of consideration from a vendor to a retailer in
+connection with the retailer's purchase of the vendor's products or to promote
+sales of the vendor's products.  EITF 00-25 is effective January 1, 2002, for
+the Company.  The Company is currently evaluating the impact of this new
+guidance.
+
+     In June 2001, the Financial Accounting Standard Board issued Statement of
+Financial Accounting Standards (FAS) No. 141, "Business Combinations", which
+addresses the accounting and reporting for business combinations, and FAS No.
+142, "Goodwill and Other Intangible Assets", which addresses the accounting and
+reporting for acquired goodwill and other intangible assets.  FAS 141 is
+effective for business combinations completed after June 30, 2001 and FAS 142
+is effective January 1, 2002, for the Company.  The Company does not expect the
+adoption of FAS 141 and 142 to have a material impact on the Consolidated
+Financial Statements.
+
+     To conform to the 2001 presentation, certain reclassifications were made
+to the prior periods' consolidated financial statements and the accompanying
+footnotes.
+
+2.  INFORMATION RELATING TO THE STATEMENTS OF CASH FLOWS
+
+    "Net cash provided by(used in) operating activities" includes the
+following cash payments for interest and income taxes:
+                                                        Six months ended
+                                                            June 30
+                                                       ------------------
+                                                        2001         2000
+                                                        ----         ----
+
+Interest............................................  $ 29.1       $ 50.6
+Income taxes, net of refunds received...............     9.9        102.0
+
+3.  EARNINGS PER SHARE
+
+    Basic earnings per share ("EPS") are computed by dividing net income by
+the weighted-average number of shares outstanding during the year.  Diluted
+earnings per share are calculated to give effect to all potentially dilutive
+common shares that were outstanding during the year.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Page>
+                                     8
+
+                           AVON PRODUCTS, INC.
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                    (In millions, except share data)
+
+    For the three and six months ended June 30, 2001 and 2000, the components
+of basic and diluted earnings per share are as follows:
+
+                                                Three Months        Six Months
+                                               Ended June 30     Ended June 30
+                                              2001      2000     2001     2000
+Numerator:
+Basic:
+   Income from continuing operations
+   before cumulative effect of
+   accounting changes                     $  137.7   $ 124.9   $ 219.7  $195.3
+
+   Cumulative effect of accounting changes       -         -      (0.3)   (6.7)
+
+                                          --------   -------   -------  ------
+   Net Income                             $  137.7   $ 124.9   $ 219.4  $188.6
+                                          ========   =======   =======  ======
+Diluted:
+   Income from continuing operations
+   before cumulative effect of accounting
+   changes                                $  137.7   $ 124.9   $ 219.7  $195.3
+
+   Interest expense on convertible notes,
+   net of taxes                                2.5         -       5.0       -
+                                          --------   -------   -------  ------
+   Income for purposes of computing diluted
+   EPS before cumulative effect of
+   accounting changes                        140.2     124.9     224.7   195.3
+
+   Cumulative effect of accounting changes       -         -      (0.3)   (6.7)
+                                          --------   -------   -------   -----
+   Net income for purposes of computing
+   diluted EPS                            $  140.2   $ 124.9   $ 224.4  $188.6
+                                          ========   =======   =======  ======
+Denominator:
+Basic EPS weighted-average shares
+   outstanding                              236.74    237.50    237.32  237.57
+Dilutive effect of:
+   Assumed conversion of
+   stock options and settlement of
+   forward contracts (1)                      2.10      2.06      2.00    1.78
+   Assumed conversion of convertible notes    6.96         -      6.96       -
+                                           -------    ------    ------  ------
+Diluted EPS adjusted weighted-average
+   shares outstanding                       245.80    239.56    246.28  239.35
+                                          ========   =======   =======  ======
+Basic EPS:
+   Continuing operations                  $    .58   $   .53   $   .92  $  .82
+   Cumulative effect of accounting
+     changes                                     -         -         -    (.03)
+                                          --------  --------   -------  ------
+                                          $    .58   $   .53   $   .92  $  .79
+                                          ========   =======   =======  ======
+Diluted EPS:
+   Continuing operations                  $    .57   $   .52   $   .91  $  .82
+   Cumulative effect of accounting
+     changes                                     -         -         -    (.03)
+                                          --------  --------   -------  ------
+                                          $    .57   $   .52   $   .91  $  .79
+                                          ========   =======   =======  ======
+(1) At June 30, 2000, stock options and forward contracts to purchase
+    Avon common stock totaling 2.3 million shares, are not
+    included in the earnings per share calculation since
+    their impact is anti-dilutive.
+
+<Page>
+                                     9
+
+                           AVON PRODUCTS, INC.
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                    (In millions, except share data)
+
+    The Company purchased approximately 2,564,000 shares of common stock for
+$101.1 during the first six months of 2001, as compared to approximately
+1,060,000 shares of common stock for $42.1 during the first six months of
+2000.  At June 30, 2001, 17,990 shares repurchased for $0.8 were not settled
+until July 2001 and were included in Other accrued liabilities on the
+Consolidated Balance Sheets.
+
+4.  INVENTORIES
+                                   June 30            December 31
+                                       2001                   2000
+                                      -----                   ----
+    Raw materials................    $181.4                 $168.0
+    Finished goods...............     505.1                  442.6
+                                     ------                 ------
+                                     $686.5                 $610.6
+                                     ======                 ======
+
+5.  DIVIDENDS
+
+Cash dividends paid per share of common stock were $.19 and $.38 for the
+three and six months ended June 30, 2001, respectively, and $.185 and $.37 for
+the corresponding 2000 periods.  On February 1, 2001, the Company increased
+the indicated annual dividend rate to $.76 from $.74.
+
+6.  CONTINGENCIES
+
+Various lawsuits and claims (asserted and unasserted), arising in the
+ordinary course of business or related to businesses previously sold, are
+pending or threatened against Avon.
+
+    In 1991, a class action suit was initiated against Avon on behalf of
+certain classes of holders of Avon's Preferred Equity-Redemption Cumulative
+Stock ("PERCS").  This lawsuit alleges various contract and securities law
+claims relating to the PERCS (which were fully redeemed that year).  While it
+is not possible to predict the outcome of litigation, Avon has rejected the
+assertions in this case, believes it has meritorious defenses to the claims
+and is vigorously contesting this lawsuit.  It is anticipated that a trial
+will take place in 2001.
+
+    In the opinion of Avon's management, based on its review of the
+information available at this time, the total cost of resolving such
+contingencies at June 30, 2001, should not have a material adverse impact on
+Avon's consolidated financial position, results of operations or cash flows.
+
+     As disclosed in a Form 8-K filed September 14, 2000, in response to
+a private investigation by the Securities and Exchange Commission, the
+Company is providing information that principally concerns an item
+included in its special charge reported for the first quarter of 1999.
+The item consists of an order management software system for sales
+representatives known as the FIRST project, of which $15.0 in costs were
+written off as part of the special charge.  The balance of the project's
+development costs, amounting to approximately $25.0, continue to be
+carried as an asset on the books of the Company.
+
+     The Company is fully cooperating with the SEC.  The SEC has stated
+that its inquiry should not be construed as an indication by the
+Commission or its staff that any violations of law have occurred, nor
+should it be considered a reflection upon any person, entity or
+security.  The outcome of this investigation cannot be predicted.
+
+
+
+
+
+
+<Page>
+                                      10
+
+                            AVON PRODUCTS, INC.
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                    (In millions, except share data)
+
+7. COMPREHENSIVE INCOME(LOSS)
+
+    For the three and six months ended June 30, 2001 and 2000, the components
+of comprehensive income are as follows:
+
+                                           Three Months            Six Months
+                                           Ended June 30         Ended June 30
+                                         2001       2000       2001       2000
+Net income                            $ 137.7    $ 124.9    $ 219.4    $ 188.6
+  Other comprehensive loss:
+    Foreign currency translation and
+       transaction adjustments           (2.5)     (20.9)     (19.5)     (23.6)
+    Unrealized loss on available-
+       for-sale securities,
+       net of taxes of $0.6 and $0.8      1.1          -       (1.5)         -
+    Net losses on derivative
+       instruments, net of
+       taxes of $0.2 and $1.0            (0.7)         -       (2.1)         -
+                                       -------     ------     ------    ------
+Comprehensive income                   $135.6      $104.0    $ 196.3    $165.0
+                                       =======     ======     ======    ======
+
+At June 30, 2001, the Company estimates that $1.9 of the net losses recorded
+in accumulated other comprehensive loss on the consolidated balance sheet
+related to forward contracts designated as cash flow hedges will be
+reclassified to earnings during the next twelve months.
+
+For the three and six months ended June 30, 2001, the components of the net
+losses on derivative instruments are as follows:
+                                                     Three Months     Six Months
+                                                    Ended June 30  Ended June 30
+                                                             2001           2001
+
+Net losses on derivative instruments at
+   Beginning of period                                $       -       $      -
+   Cumulative effect of accounting change,
+      net of taxes of $2.1                                    -           (3.9)
+   Net losses on derivative instruments,
+      net of taxes of $1.6 and $1.4                        (3.1)          (2.6)
+   Reclassification to earnings, net of taxes
+      of $1.4 and $2.5                                      2.4            4.4
+                                                       --------       --------
+Net losses on derivative instruments at
+   June 30, 2001                                      $    (0.7)      $   (2.1)
+                                                      =========       ========
+8.  SPECIAL AND NON-RECURRING CHARGES
+
+    In October 1997, the Company announced a worldwide business process
+redesign program to streamline operations and improve profitability through
+margin improvement and expense reductions. The special and non-recurring
+charges associated with this program totaled $151.2 pretax ($121.9 net of
+taxes, or $.47 per share on a basic and diluted basis) for the year ended
+December 31, 1999 and $154.4 pretax ($122.8 net of tax, or $.46 per share on a
+basic and diluted basis) for the year ended December 31, 1998.
+
+     The 1999 special and non-recurring charges by business segment are as
+follows:
+
+North America                  $  33.6
+Latin America                     14.7
+Europe                            69.8
+Pacific                           11.8
+Corporate                         21.3
+                               -------
+   Total                       $ 151.2
+                               =======
+                                        11
+<Page>
+                           AVON PRODUCTS, INC.
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                     (In millions, except share data)
+
+    The 1999 special and non-recurring charges by category of expenditures are
+as follows:
+
+                               Special         Cost of
+                                Charge       Sales Charge       Total
+                               -------       ------------       -----
+Employee severance costs       $  57.0         $     -        $  57.0
+Inventories                          -            46.0           46.0
+Write-down of assets to
+  net realizable value            26.4               -           26.4
+Recognition of foreign currency
+   translation adjustment          9.8               -            9.8
+Other                             12.0               -           12.0
+                               -------          ------         ------
+   Total                       $ 105.2         $  46.0        $ 151.2
+                               =======         =======        =======
+
+    Employee severance costs are expenses, both domestic and international,
+associated with the realignment of the Company's global operations.  Certain
+employee severance costs were accounted for in accordance with the Company's
+existing FAS 112 ("Employers' Accounting for Postemployment Benefits")
+severance plans.  Remaining severance costs were accounted for in accordance
+with other existing accounting literature.  The workforce was reduced by 3,700
+associates, or 9% of the total. Approximately one-half of the terminated
+employees related to facility closures.  As of June 30, 2001, all employees
+under the program have been terminated.
+
+    Inventory related charges represent losses to write-down the carrying
+value of non-strategic inventory prior to disposal.  The charges primarily
+result from a new business strategy for product dispositions which
+fundamentally changes the way the Company markets and sells certain inventory.
+This new strategy, approved and effective in March 1999, is meant to
+complement other redesign initiatives, with the objective of reducing
+inventory clearance sales, building core brochure sales and building global
+brands.
+
+    The write-down of assets (primarily fixed and other assets) relates to the
+restructuring of operations in Western Europe, including the closure of a
+jewelry manufacturing facility in Ireland, and the write-down of software, the
+use of which is no longer consistent with the strategic direction of the
+Company. By centralizing certain key functional areas and exiting unprofitable
+situations, the Company plans to increase operating efficiencies and
+ultimately, profit growth in the long-term.
+
+The recognition of a foreign currency translation adjustment relates to
+the closure of the jewelry manufacturing facility in Ireland.
+
+The "Other" category primarily represents contract termination costs,
+legal and consulting fees and other costs associated with the facility
+closures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Page>
+                                       12
+
+
+                             AVON PRODUCTS, INC.
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                       (In millions, except share data)
+
+    The liability balance at June 30, 2001 is as follows:
+
+                              Special           Cost of
+                               Charge      Sales Charge         Total
+                              -------      ------------         -----
+Balance at December 31, 2000   $  7.9             $   -        $  7.9
+Cash expenditures                (4.1)                -          (4.1)
+                               ------              ----         -----
+Balance at June 30, 2001       $  3.8             $   -        $  3.8
+                               ======             =====        ======
+
+    The balance at June 30, 2001, related primarily to employee severance
+costs that will be paid in accordance with the original plan during 2001.
+
+9.  SEGMENT INFORMATION
+
+    Summarized financial information concerning the Company's reportable
+segments is as follows:
+
+                                                   Three Months Ended
+                                                        June 30
+                                                   ------------------
+                                            2001                  2000
+                                            ----                  ----
+                                      Net     Operating      Net     Operating
+                                     Sales     Profit       Sales      Profit
+                                     -----    ---------     -----    ---------
+
+North America:
+      U.S.                        $  480.8      $ 101.7  $  455.3     $  96.2
+      Other*                          59.5          5.7      58.6         6.6
+                                     -----        -----     -----      ------
+      Total                          540.3        107.4     513.9       102.8
+                                     -----        -----     -----      ------
+International:
+      Latin America North**          252.1         70.4     213.9        57.3
+      Latin America South**          242.4         44.7     247.8        50.9
+                                    ------        -----     -----      ------
+        Latin America                494.5        115.1     461.7       108.2
+      Pacific                        184.6         28.5     199.0        29.6
+      Europe                         233.1         42.3     208.0        35.8
+                                     -----        -----     -----      ------
+      Total International            912.2        185.9     868.7       173.6
+                                     -----        -----     -----      ------
+
+Total from operations            $ 1,452.5      $ 293.3  $1,382.6     $ 276.4
+Global expenses                          -        (57.5)        -       (56.0)
+                                 ---------      -------   -------      ------
+Total                            $ 1,452.5      $ 235.8  $1,382.6     $ 220.4
+                                 =========      =======  ========     =======
+
+*Includes operating information for Canada, Puerto Rico and costs associated
+with the U.S. retail business.
+
+**Latin America North primarily includes the markets of Mexico, Venezuela and
+Central America.  Latin America South primarily includes the markets of
+Brazil, Argentina, Chile and Peru.
+
+
+
+
+
+
+<Page>
+                                     13
+
+                             AVON PRODUCTS, INC.
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                       (In millions, except share data)
+
+                                                   Six Months Ended
+                                                       June 30
+                                                 ------------------
+                                            2001                  2000
+                                            ----                  ----
+                                      Net     Operating      Net     Operating
+                                     Sales     Profit       Sales      Profit
+                                     -----    ---------     -----    ---------
+
+North America:
+      U.S.                        $  942.5   $   184.1   $  907.3     $ 177.3
+      Other*                         116.1         8.0      117.4        11.4
+                                     -----        -----     -----      ------
+      Total                        1,058.6       192.1    1,024.7       188.7
+                                   -------        -----     -----      ------
+International:
+      Latin America North**          468.5       118.0      402.2        97.2
+      Latin America South**          455.4        75.3      463.2        80.8
+                                    ------       ------     -----      ------
+        Latin America                923.9       193.3      865.4       178.0
+      Pacific                        366.1        49.2      389.0        52.0
+      Europe                         452.9        69.2      410.2        56.4
+                                     -----        -----     -----      ------
+      Total International          1,742.9       311.7    1,664.6       286.4
+                                     -----       ------     -----      ------
+
+Total from operations            $ 2,801.5      $503.8   $2,689.3     $ 475.1
+
+Global expenses                       (1.8)     (122.2)         -      (116.9)
+                                 ---------      -------   -------      ------
+Total                            $ 2,799.7      $381.6   $2,689.3     $ 358.2
+                                 =========      ======== ========      ======
+
+*Includes operating information for Canada, Puerto Rico and costs associated
+with the U.S. retail business.
+
+**Latin America North primarily includes the markets of Mexico, Venezuela and
+Central America.  Latin America South primarily includes the markets of
+Brazil, Argentina, Chile and Peru.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Page>
+                                     14
+
+                             AVON PRODUCTS, INC.
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                       (In millions, except share data)
+
+     The following table presents consolidated net sales by classes of
+principal products as follows:
+
+                                    Three Months               Six Months
+                                    Ended June 30             Ended June 30
+                                   2001       2000          2001       2000
+
+Beauty (cosmetics, fragrance
+    and toiletries)            $  945.4    $  884.4     $1,810.6   $1,707.2
+Beauty Plus:
+   Fashion jewelry                 65.4        79.1        133.3      156.0
+   Accessories                     62.2        62.6        129.7      124.6
+   Apparel                        125.1       115.7        242.7      225.0
+   Watches                         17.7        16.2         37.6       29.7
+   Health & Well Being             12.2         6.4         16.3       11.5
+                                -------    --------      -------    -------
+                                  282.6       280.0        559.6      546.8
+Beyond Beauty and Other*          224.5       218.2        429.5      435.3
+                                -------    --------      -------    -------
+
+Total net sales                $1,452.5    $1,382.6     $2,799.7   $2,689.3
+
+
+
+*Beyond Beauty and other primarily includes home products, gift and
+decorative, health and nutrition, and candles.
+
+     To conform to the 2001 presentation, certain reclassifications were made
+to the prior periods' segment information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Page>
+                                        15
+
+
+                                   AVON PRODUCTS, INC.
+                     NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                          (In millions, except share data)
+
+11.  Financial Instruments and Risk Management
+
+     The Company operates globally, with manufacturing and distribution
+facilities in various locations around the world. The Company may reduce its
+exposure to fluctuations in interest rates and foreign exchange rates by
+creating offsetting positions through the use of derivative financial
+instruments.  The Company currently does not enter into derivative financial
+instruments for trading or speculative purposes, nor is the Company a party to
+leveraged derivatives.
+
+     All derivatives are recognized on the balance sheet at their fair value.
+The accounting for changes in fair value (gains or losses) of a derivative
+instrument depends on whether it has been designated and qualifies as part of
+a hedging relationship and further, on the type of hedging relationship.
+Changes in the fair value of a derivative that is designated as a fair value
+hedge, along with the loss or gain on the hedged asset or liability that is
+attributable to the hedged risk, are recorded in current earnings.  Changes in
+the fair value of a derivative that is designated as a cash flow hedge are
+recorded in other comprehensive income ("OCI") to the extent effective and
+reclassified into earnings in the same period or periods during which the
+hedged transaction affects earnings.  Changes in the fair value of a
+derivative that is designated as a hedge of a net investment in a foreign
+operation are recorded in foreign currency translation adjustments within OCI,
+to the extent effective as a hedge.  Changes in the fair value of a derivative
+not designated as hedging instruments are recognized in current earnings.
+
+     The Company assesses, both at the hedge's inception and on an ongoing
+basis, whether the derivatives that are used in hedging transactions are
+highly effective in offsetting changes in fair values or cash flows of hedged
+items.  The ineffective portion of the derivative's gain or loss, if any, is
+recorded in current earnings. Prior to June 1, 2001, the Company excluded the
+change in time value of option contracts from its assessment of hedge
+effectiveness.  Effective June 1, 2001, the Company includes the change in
+time value of options in its assessment of hedge effectiveness.  When it is
+determined that a derivative is not highly effective as a hedge, the Company
+discontinues hedge accounting prospectively.  When hedge accounting is
+discontinued because it is probable that a forecasted transaction will not
+occur, the Company discontinues hedge accounting for the affected portion of
+the forecasted transaction, and gains and losses that were accumulated in OCI
+are recognized in earnings.
+
+Interest Rates
+The Company uses interest rate swaps to hedge interest rate risk on its debt.
+In addition, the Company may periodically employ interest rate caps to reduce
+exposure, if any, to increases in variable interest rates.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Page>
+                                    16
+
+                               AVON PRODUCTS, INC.
+                     NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                          (In millions, except share data)
+
+     The Company has entered into interest rate swap contracts that effectively
+convert a portion of its fixed-rate debt to a variable rate, based on LIBOR.
+The Company has designated the interest rate swaps as fair value hedges. At
+June 30, 2001, $550.0 of the Company's outstanding long-term debt is designated
+as the hedged items to interest rate swap contracts.  Accordingly, long-term
+debt increased by $22.6 during the six months ended June 30, 2001 with a
+corresponding increase to Other assets to reflect the fair value of outstanding
+interest rate swaps.   There were no amounts of hedge ineffectiveness for the
+three and six months ended June 30, 2001, related to these interest rate swaps.
+
+Foreign Currency
+The Company uses foreign currency forward contracts and options to hedge
+portions of its forecasted foreign currency cash flows resulting from
+forecasted royalties, intercompany loans, and other anticipated foreign
+currency transactions where there is a high probability that anticipated
+exposures will materialize, including third-party and intercompany foreign
+currency transactions.  These contracts have been designated as cash flow
+hedges.
+
+     For the three and six months ended June 30, 2001, the net gain related to
+the ineffective portion of the Company's cash-flow hedging instruments, and
+the net loss related to the portion of the hedging instrument excluded from
+the assessment of hedge effectiveness (time value of options prior to June 1,
+2001) was not material. The net gain reclassified from OCI to earnings for
+cash-flow hedges that have been discontinued, because the forecasted
+transactions are not probable of occurring, for the three and six months ended
+June 30, 2001, was not material.
+     As of June 30, 2001, the Company expects to reclassify $1.9 of net losses
+on derivative instruments from accumulated other comprehensive income to
+earnings during the next twelve months due to (a) foreign currency royalties
+(b) intercompany loans settlements and (c) actual foreign currency denominated
+purchases or receipts.  The maximum remaining term over which the Company is
+hedging exposures to the variability of cash flows for all forecasted
+transactions is eighteen months.
+
+     The Company also enters into foreign currency forward contracts and
+options to protect against the adverse effects that exchange rate fluctuations
+may have on the earnings of its foreign subsidiaries.  These derivatives do
+not qualify for hedge accounting and the gains and losses on these derivatives
+are recognized in current earnings.
+
+Hedges of Net Investments in Foreign Operations
+The Company uses foreign-currency forward contracts and foreign currency
+denominated debt to hedge the foreign currency exposure related to the net
+assets of the Company's foreign subsidiaries.
+
+     As of June 30, 2001, the Company has entered into a loan agreement to
+borrow Japanese yen to hedge Avon's net investment in its Japanese subsidiary.
+For the six months ended June 30, 2001, a $3.5 gain related to the revaluation
+of this foreign currency denominated debt was included in foreign currency
+translation adjustments within accumulated other comprehensive loss on the
+Consolidated Balance Sheets.  See Note 12 of the Notes to Consolidated
+Financial Statements.
+
+<Page>
+
+                                    17
+
+                                 AVON PRODUCTS, INC.
+                     NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                          (In millions, except share data)
+
+Credit and Market Risk
+The Company attempts to minimize its credit exposure to counterparties by
+entering into interest rate swap and cap contracts only with major
+international financial institutions with "A" or higher credit ratings as
+issued by Standard & Poor's Corporation. The Company's foreign currency and
+interest rate derivatives are comprised of over-the-counter forward contracts
+or options with major international financial institutions. Although the
+Company's theoretical credit risk is the replacement cost at the then
+estimated fair value of these instruments, management believes that the risk
+of incurring losses is remote and that such losses, if any, would not be
+material.
+
+12. Debt
+
+In February 2001, Avon entered into a loan agreement to borrow 5.5
+billion Japanese yen.  The loan bore interest at a per annum rate equal to
+0.875% and matured on April 9, 2001.  Interest on the loan was paid at
+maturity.  In April 2001, Avon amended this loan agreement to increase the
+amount borrowed to 8.0 billion Japanese yen and to extend the maturity to May
+15, 2001.  The loan bore interest at a per annum rate equal to 0.485%.
+Interest on the loan was paid at maturity. In May 2001, Avon further amended
+this loan agreement to extend the maturity to July 12, 2001.  The loan bore
+interest at a per annum rate equal to 0.455%.  In July 2001, Avon further
+amended this loan agreement to extend the maturity to August 9, 2001.  The
+loan bore interest at a per annum rate equal to 0.435%.  In August 2001, Avon
+further amended this loan agreement to extend the maturity to August 31, 2001.
+The loan bears interest at a per annum rate equal to 0.435%.  The loan is
+designated as a hedge of Avon's net investment in Japan.  See Note 11 to the
+Notes to Consolidated Financial Statements.
+
+     In May 2001, the Company entered into an agreement with various banks to
+replace the Company's existing revolving credit and competitive advance
+facility, which was due to expire in August 2001, with a new five-year $600.0
+revolving credit and competitive advance facility agreement, which expires in
+2006.  The new agreement and the prior agreement are referred to, collectively,
+as the "credit facility".
+
+     The credit facility may be used for general corporate purposes, including
+financing working capital and capital expenditures, providing support for the
+issuance of commercial paper and supporting the stock repurchase program.  The
+interest rate on borrowings under the credit facility is based on LIBOR,
+prime, or federal fund rates.  The credit facility has an annual facility fee
+of $0.5.  The credit facility contains a covenant for interest coverage, as
+defined.  The Company is in compliance with this covenant at June 30, 2001.
+At June 30, 2001, there were no borrowings under the credit facility.
+
+13.  Subsequent Event
+
+     In July 2001, the Company announced that, due a change in Sears Roebuck
+and Company ("Sears") business strategy, that will include de-emphasizing
+cosmetics, Avon will not proceed with the launch of the retail brand,
+beComing, in Sears stores this fall.  In July 2001, Avon and Sears reached an
+agreement, under which Avon received a cash settlement, net of related
+expenses, of approximately $26.0 to compensate Avon for lost profits and
+incremental expenses as a result of the cancellation of the retail agreement.
+In addition, the Company will receive store fixturing from Sears (also as a
+result of the cancellation of the retail agreement), which may be used in
+future retail sites.
+
+     Avon will continue with the launch of the beComing brand in J.C. Penney
+stores in the fall of 2001.
+
+     On August 1, 2001, the Company declared a quarterly dividend on its
+common stock of $.19 per share, payable September 4, 2001, to shareholders of
+record on August 16, 2001.
+
+<Page>
+                                       18
+
+
+                            AVON PRODUCTS, INC.
+              MANAGEMENT'S DISCUSSION AND ANALYSIS OF THE
+              RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+                     (In millions, except share data)
+
+ITEM 2.  Management's Discussion and Analysis of the Results of Operations
+         and Financial Condition
+
+
+Results of Operations
+
+Consolidated
+
+     Avon's net income for the second quarter and six-month period of
+2001, was $137.7 and $219.4, respectively, or $.57 and $.91 per share on
+a diluted basis, respectively, compared with net income of $124.9 and
+$188.6, respectively, or $.52 and $.79 per share on a diluted basis,
+respectively, for the same periods in 2000.  Operating profit was $235.8
+and $381.6, respectively, in the second quarter and six-month period in
+2001 compared with $220.4 and $358.2, respectively, for the same periods
+in 2000.
+
+     Effective January 1, 2001, the Company adopted Statement of Financial
+Accounting Standards ("FAS") No. 133, "Accounting for Derivative Instruments
+and Hedging Activities", as amended by FAS No. 138, "Accounting for Certain
+Derivative Instruments and Hedging Activities", which establishes accounting
+and reporting standards for derivative instruments and hedging activities.  In
+accordance with the provisions of FAS No. 133, the Company recorded a charge
+to earnings of $0.3, net of a tax benefit of $0.2, in the first quarter of
+2001 to reflect the change in time-value of Avon's outstanding options from
+the dates of the options' inception through the date of transition (January 1,
+2001).  The Company also recorded a charge to shareholders' (deficit)equity of
+$3.9, net of a tax benefit of $2.1, in accumulated other comprehensive loss to
+recognize the fair value of all derivatives designated as cash-flow hedging
+instruments, which the Company expects to reclassify into earnings within the
+next twelve months.  These charges are reflected as a cumulative effect of an
+accounting change in the accompanying Consolidated Financial Statements.  See
+Notes 7 and 11 of the Notes to Consolidated Financial Statements.
+
+     Effective January 1, 2000, the Company changed its method of
+accounting for revenue recognition in accordance with Staff Accounting
+Bulletin ("SAB") No. 101, "Revenue Recognition in Financial Statements."
+The cumulative effect of the change on prior years resulted in a charge
+of $6.7, net of a tax benefit of $3.5, or $.03 per share on a basic and
+diluted basis in the first quarter of 2000, which is included in net
+income for the six-months ended June 30, 2000. For the three months and
+six months ended June 30, 2000, the  impact of the accounting change was
+to increase/(decrease) net income before the cumulative effect of the
+accounting change by $0.4 and ($4.0), respectively.
+
+     Consolidated net sales for the second quarter and six-month period
+of 2001 increased 5% and 4%, respectively, over the same periods of 2000.
+The sales improvement in both the second quarter and six-month period was
+a result of increases in Europe, Latin America and North America,
+partially offset by declines in the Pacific region.  Excluding the impact
+of foreign currency exchange, consolidated net sales rose 10% and 9% in
+the second quarter and six-month period of 2001, respectively, over the
+comparable periods of the prior year, with increases in all regions.
+
+     Gross margin increased 0.1 percentage point in the second quarter of
+2001 and 0.2 percentage point in the six-month period of 2001 compared to
+the same periods of 2000.  The second quarter increase resulted from
+improvements in Latin America, primarily Mexico and Venezuela, and most
+markets in the Pacific region, partially offset by a decline in Europe,
+mainly in Western European markets.  The six-month increase resulted from
+improvements in all international regions, most significantly in Russia,
+the United Kingdom, Venezuela, Brazil, and most  markets in the Pacific
+region.  Gross margin in North America for both
+
+<Page>
+                                     19
+
+                            AVON PRODUCTS, INC.
+               MANAGEMENT'S DISCUSSION AND ANALYSIS OF THE
+              RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+                     (In millions, except share data)
+
+the second quarter and six-month period of 2001 was flat with the same periods
+of 2000.
+
+     Marketing, distribution and administrative expenses increased $30.8 and
+$53.2, or 5% and 4%, for the second quarter and six-month period of 2001,
+respectively, over the comparable periods of 2000 due to increases in all
+regions, excluding the Pacific region. Operating expenses decreased as a
+percentage of sales to 48.2% and 50.2% in the second quarter and six-month
+period of 2001, respectively, from 48.4% and 50.3% in the comparable periods
+of 2000.  The second quarter and six-month period improvement were primarily
+due to improved ratios in Venezuela, Mexico, Russia, the United Kingdom and
+Japan, partially offset by higher expense ratios in Argentina, most Western
+European markets, South Africa, the Philippines, Taiwan and costs associated
+with the U.S. retail business scheduled for launch in late 2001.
+
+Interest expense of $18.9 and $38.6 in the second quarter and six-month
+period of 2001, respectively, decreased $3.9 and $4.1 versus the
+comparable periods of 2000, primarily as a result of a decline in
+domestic interest rates in 2001.  Interest income of $4.2 and $6.2 in the
+second quarter and six-month period of 2001, respectively, increased $2.1
+and $2.3, respectively, as compared to the same periods in 2000 primarily
+due to higher domestic interest rates and strong cash position during
+2001.
+
+     Other expense, net of $7.3 in the second quarter of 2001 was $2.7
+unfavorable to the comparable period of 2000 mainly due to foreign
+exchange losses on Mexican peso and Hungarian forint foreign exchange
+contracts.  Other expense, net of $8.9 in the six-month period of 2001
+was $5.9 favorable to the comparable period of 2000 mainly due to foreign
+exchange losses during 2000 on forward contracts in Brazil as well as
+favorable foreign exchange movements in 2001 on Japanese yen contracts.
+
+     The effective tax rate was 34.9% and 35.0% in the second quarter and
+six-month period of 2001, respectively, versus 35.5% and 35.6%,
+respectively, in the comparable periods of 2000, due to dividend planning
+and the earnings mix and tax rates of international subsidiaries.
+
+The following discussion addresses net sales and operating profit by
+reportable segment as presented in Note 9:
+
+North America
+
+     Net sales grew 5% and 3% in the second quarter and six-month period
+of 2001, respectively, over the comparable periods in 2000.  The U.S
+business, which represents almost 90% of the North American segment,
+reported a sales increase of 6% and 4% for the second quarter and six-
+month period of 2001. The increase in both periods resulted from a 4%
+increase in the number of average Representatives due to the successful
+implementation of Avon's career strategies, particularly Sales Leadership,
+as well as the strength of Avon's marketing plans.  U.S. sales of
+cosmetics, fragrance and toiletries ("CFT") grew 5% during both the second
+quarter and six-month period in 2001.  The growth in CFT reflects strong
+increases in skin care, color cosmetics and hair care in both periods.
+Skin care, the U.S.'s most profitable CFT product line, grew double-digits
+in both the second quarter and six-month period of 2001, partly due to the
+successful relaunch of Anew Retroactive as well as strong new product
+introductions of Anew Line Eliminator and Avon Porefection. Color
+cosmetics reported strong increases versus prior year, driven by new
+product activity and the relaunch of Beyond Color.  Hair care grew over
+40% in the second quarter and six-month period of 2001, due to successful
+new product launches and increased exposure in brochures.
+
+
+<Page>
+
+                                     -20-
+
+                           AVON PRODUCTS, INC.
+               MANAGEMENT'S DISCUSSION AND ANALYSIS OF THE
+              RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+                     (In millions, except share data)
+
+The successful launch of the new Health and Wellness line of vitamins and
+fitness products contributed to the U.S. sales growth in both periods of
+2001. Furthermore, sales of apparel and accessories posted growth of 16%
+and 18% in the second quarter and six-month period of 2001, respectively,
+primarily due to growth in intimate apparel.  Partially offsetting the
+sales improvements in the above categories was a decline in sales of home
+entertainment products, resulting from fewer new product concepts in 2001.
+
+     Operating profit in North America increased 4% and 2%, respectively,
+(U.S. increased 6% and 4%) for the second quarter and six-month period of
+2001 over the comparable periods in 2000.  These increases are primarily
+attributable to sales increases in the U.S. and Puerto Rico, partially
+offset by costs associated with the U.S. retail business scheduled for
+launch in late 2001.  Operating profit margin in North America declined
+0.1 point in the second quarter and 0.3 points in the six-month period of
+2001 primarily due to a higher expense ratio associated with the U.S.
+retail business discussed above.
+
+International
+
+     International U.S. dollar net sales for both the second quarter and
+six-month period of 2001 increased 5% compared to the same periods in
+2000.  The international sales improvement in both periods was a result
+of increases in the Europe and Latin America regions.  Excluding the
+effect of foreign currency exchange, international sales increased 13% in
+both the second quarter and six-month period of 2001 with double-digit
+increases in the Europe and Latin America regions, as well as a mid-
+single digit increase in the Pacific region in both periods.
+
+     In Europe, sales increased 12% and 10% in the second quarter and
+six-month period of 2001, respectively, driven by growth in Central and
+Eastern Europe, primarily Poland and Russia, partially offset by sales
+declines in most Western European markets, excluding the UK.  The sales
+improvement in Central and Eastern Europe, primarily Poland, in both
+periods resulted from continued increases in average Representatives and
+units, and the improvement in Russia was driven by significant increases
+in average order size and units.  Poland's continued strong sales growth
+has been aided by the successful implementation of the Sales Leadership
+Strategy (launched in 2000).  This has resulted in increased market
+penetration and, along with continued focus on Representative retention,
+contributed to an increase in staff count levels of over 55% compared to
+last year.  In Russia, the sales increases resulted from an improvement
+in that nation's economy coupled with a change in the commission
+structure to include several levels of Representative commissions in 2001
+versus only one in 2000.  The sales decline in most Western European
+markets was primarily the result of a weak economic climate, which
+negatively impacted business. In the United Kingdom, sales increased in
+local currency, driven by an increase in the average order size, but U.S.
+dollar sales were negatively impacted by foreign exchange in both the
+second quarter and six-month period of 2001. Excluding the impact of
+exchange, Europe sales grew 18% and 17%, 6 point and 7 point variances
+from dollar increases in the second quarter and six-month period of 2001,
+respectively, largely due to an unfavorable exchange impact in most major
+markets within the region.
+
+     In Latin America, sales increased 7% in both the second quarter and
+six-month period of 2001 mainly due to double-digit growth in Venezuela
+and Mexico partially offset by declines in Brazil, Argentina and Chile.
+The sales increase in Venezuela and Mexico in both periods was primarily
+
+
+
+
+<Page>
+                                     21
+
+
+                            AVON PRODUCTS, INC.
+               MANAGEMENT'S DISCUSSION AND ANALYSIS OF THE
+              RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+                     (In millions, except share data)
+
+driven by strong increases in average Representatives, units and
+customers.  Venezuela had double-digit sales growth in the CFT category
+as a result of competitive pricing in fragrance, color cosmetics and
+personal care.  The increases in Mexico were also driven by strong
+performance in cosmetic lines due to investments in new product
+introductions.  In Brazil, local currency sales increased double digits
+in both the second quarter and six-month period of 2001, but U.S. dollar
+sales were negatively impacted by foreign exchange.  In Argentina, sales
+declined in both periods due to a weak economic environment that has led
+to high unemployment and lower consumer spending.  Since 1991 Argentina
+has maintained the peso at a one-to-one peg with the US Dollar.  During
+the second quarter of 2001, the Argentine peg came under increased
+pressure due to three consecutive years of recession and repeated
+government financing issues.  While the peso did not devalue during this
+time, the problems in Argentina had a negative impact on other currencies
+in the region, including the Brazilian real and the Chilean peso.  As a
+result, Brazil's and Chile's US dollar results were adversely impacted.
+The effect of exchange rates was reduced by foreign exchange contracts
+previously in place and several actions taken by local management to
+offset these weaker currencies.  Excluding the impact of exchange, sales
+in Latin America increased 15% and 14% in the second quarter and six-
+month period of 2001, respectively.
+
+     In 2001, U.S. dollar sales for most major markets in the Pacific
+region were negatively impacted by foreign exchange, most significantly
+Japan and the Philippines.  U.S. dollar sales in the Pacific region
+declined 7% and 6% in the second quarter and six-month period of 2001,
+respectively, but increased 5% and 6%, respectively, in local currency.
+Despite the weakness of the local economy, Japan's local currency sales
+increased 1% and 3% in the second quarter and six-month period of 2001,
+respectively.  The six-month increase is due to solid unit growth,
+particularly in the makeup category, mainly due to a successful lipstick
+event featured in 20 million customer flyers.  The Philippines also
+posted strong increases in units, as well as average Representatives,
+which resulted in double-digit local currency sales growth in both
+periods of 2001 versus 2000, predominantly in the watches category.  In
+China, sales growth of 32% and 36% in the second quarter and six-month
+period of 2001, respectively, was driven by sales initiatives, the
+opening of Beauty Boutiques and the success of consumer initiatives. U.S.
+dollar and local currency sales in Taiwan declined double digits in both
+the second quarter and six-month period due to that country's economic
+slowdown, which has negatively impacted employment rates and consumer
+spending this year.
+
+     International operating profit increased 7% and 9% in the second
+quarter and six-month period of 2001, respectively, compared to the same
+periods in 2000.
+
+     Operating profit in Europe increased 18% and 23% in the second quarter
+and six-month period of 2001, respectively, primarily due to the sales
+increases discussed above, as well as operating profit margin improvements in
+Russia, the United Kingdom and the Ukraine, partially offset by margin
+declines in most Western European markets (primarily Germany) and South
+Africa.  Operating profit improvements in Russia in both the second quarter
+and six-month period are due to dramatic sales growth, which led to an
+improvement in the expense ratio and gross margin. The operating margin
+improvement in the United Kingdom in both the second quarter and six-month
+period resulted from an increase in gross margin generated by strong
+performance of higher margin cosmetic items and an improvement in the expense
+ratio due to favorable comparisons against product supply difficulties in
+2000.  The operating margin improvement in the Ukraine in the second quarter
+and six-month period is due to sales growth of over 70% in both periods, which
+led to an improvement in the expense ratio.
+
+<Page>
+                                    22
+
+
+                           AVON PRODUCTS, INC.
+              MANAGEMENT'S DISCUSSION AND ANALYSIS OF THE
+              RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+                     (In millions, except share data)
+
+In Germany, lower sales due to weak economic conditions and fixed expenses on a
+weaker sales base, led to an increased expense ratio in both the second quarter
+and six-month period.  Overall, the operating margin in Europe for the second
+quarter and six-month period of 2001 increased 1.0 and 1.6 points,
+respectively, versus the prior year.
+
+In Latin America, operating profit for the second quarter and six-
+month period of 2001 increased 6% and 9%, respectively, as compared to
+the same periods in 2000.  The operating profit improvement in both
+periods resulted from the sales increases discussed above, as well as
+operating profit margin improvements in Venezuela and Mexico, partially
+offset by operating profit margin declines in Argentina. Venezuela's
+second quarter and six-month period operating margin reflected higher
+gross margin driven by price increases and cost improvements and the
+strong performance of Men's fragrance coupled with a favorable expense
+ratio.  The operating margin improvement in Mexico in both periods was
+due to successful vendor negotiations to lower product costs and a
+decrease in returned merchandise destroyed as a result of moving to a new
+distribution center.  In Argentina, operating margin declined in both
+periods due to a difficult economic environment.  Brazil's operating
+margin declined in the second quarter reflecting a higher expense ratio
+due to additional investments in advertising and sampling, while
+improving in the six-month period due to an increase in gross margin
+resulting from effective cost management and strong vendor negotiations
+to lower product costs. Overall, the second quarter operating margin in
+Latin America was unfavorable 0.2 points versus the prior year while the
+six-month operating margin was favorable 0.3 points versus the prior
+year.
+
+Operating profit in the Pacific region declined 4% and 5% in the
+second quarter and six-month period of 2001, respectively, resulting from
+the negative impact of foreign currency translation, discussed above,
+partially offset by favorable gross margin.  Excluding the impact of
+foreign exchange, operating profit increased 10% and 8% in the second
+quarter and six-month period of 2001, respectively, with increases in
+most major markets. Japan's operating margin improved 2.6 points and 1.3
+points in the second quarter and six-month period largely due to Business
+Process Redesign ("BPR") efforts, which continue to generate significant
+savings across all expense areas.  China's operating margin improved
+dramatically in both the second quarter and six-month period due to a
+favorable operating expense ratio resulting from significantly higher
+sales.  While gross margin in Taiwan improved due to favorable sales mix
+versus 2000, operating margin declined due to fixed expenses on a lower
+sales base in both the second quarter and six-month period.  Overall, the
+second quarter and six-month operating margin in the Pacific was up 0.6
+point and 0.1 point, respectively, versus the prior year.
+
+Global Expenses
+
+     Global expenses increased 3% and 5% in the second quarter and six-month
+period of 2001, respectively, over the same periods in 2000 primarily due to
+insurance proceeds received in 2000 related to 1998 hurricane losses in
+Central America.
+
+
+
+
+<Page>
+                                     23
+
+                            AVON PRODUCTS, INC.
+              MANAGEMENT'S DISCUSSION AND ANALYSIS OF THE
+              RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+                     (In millions, except share data)
+
+Cash Flows
+
+     Excluding changes in debt, there was a net decrease in cash of $17.0 in
+the first half of 2001 compared with a decrease of $246.0 in the comparable
+period of 2000.  The $229.0 variance resulted from higher net cash provided by
+operations which reflects higher net income, the receipt of an income tax
+refund in 2001, as well as higher working capital needs in 2000, which
+included the payout of the long-term incentive plan, the timing of cash
+payments and higher inventories.  These sources of cash were partially offset
+by higher repurchases of common stock, and increased cash used for investing
+activities due to the acquisition of a distributorship in Greece during 2001.
+
+     During the first six months of 2001, the Company purchased approximately
+2,564,000 shares of common stock for $101.1 compared to approximately 1,060,000
+shares of common stock for $42.1 during the first six months of 2000.  At June
+30, 2001, 17,990 shares repurchased for $0.8 were not settled until July 2001
+and were included in Other accrued liabilities on the Consolidated Balance
+Sheets.
+
+Capital Resources
+
+     Total debt increased $71.0 to $1,284.6 from $1,213.6 at December 31,
+2000, principally due to a Japanese yen denominated loan obtained in 2001,
+which is designated as a hedge of Avon's net investment in Japan, and an
+adjustment of $22.6 to reflect the fair value of outstanding interest rate
+swaps as of June 30, 2001.  Total debt of $1,284.6 at June 30, 2001 was $74.4
+higher than total debt of $1,210.2 at June 30, 2000, primarily due to the
+Japanese Yen denominated loan, discussed above, and the adjustment of $22.6 in
+2001 to reflect the fair value of outstanding interest rate swaps.
+
+     In May 2001, the Company entered into an agreement, with various banks to
+replace the Company's existing revolving credit and competitive advance
+facility, which was due to expire in August 2001, with a new five-year $600.0
+revolving credit and competitive advance facility agreement, which expires in
+2006.  The new agreement and the prior agreement are referred to,
+collectively, as the "credit facility".
+
+     The credit facility may be used for general corporate purposes, including
+financing working capital and capital expenditures, providing support for the
+issuance of commercial paper and supporting the stock repurchase program.  The
+interest rate on borrowings under the credit facility is based on LIBOR,
+prime, or federal fund rates.  The credit facility has an annual facility fee
+of $0.5.  The credit facility contains a covenant for interest coverage as
+defined.  The Company is in compliance with this covenant at June 30, 2001.
+At June 30, 2001, there were no borrowings under the credit facility.
+
+     At June 30, 2001, there were $9.0 of borrowings outstanding under
+uncommitted lines of credit.
+
+     In February 2001, Avon entered into a loan agreement to borrow 5.5
+billion Japanese Yen.  The loan bore interest at a per annum rate equal to
+0.875% and matured on April 9, 2001.  Interest on the loan was paid at
+maturity.  In April 2001, Avon amended this loan agreement to increase the
+amount borrowed to 8.0 billion Japanese yen and to extend the maturity to May
+15, 2001.  The loan bore interest at a per annum rate equal to 0.485%.
+Interest on the loan was paid at maturity.  In May 2001, Avon further amended
+this loan agreement to extend the maturity to July 12, 2001.  The loan bore
+interest at a per annum rate equal to 0.455%.  In July 2001, Avon further
+amended this loan agreement to extend the maturity to August 9, 2001.  The
+loan bore interest at a per annum rate equal to 0.435%.  In August 2001, Avon
+further amended this loan agreement to extend the maturity date to August 31,
+2001.  The loan bears interest at a per annum rate equal to 0.435%.  The loan
+is designated as a hedge of Avon's net investment in Japan.  See Note 11 to
+the Notes to Consolidated Financial Statements.
+
+<Page>
+                                    24
+
+                          AVON PRODUCTS, INC.
+              MANAGEMENT'S DISCUSSION AND ANALYSIS OF THE
+              RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+                     (In millions, except share data)
+
+     Management currently believes that cash from operations and available
+financing alternatives are adequate to meet anticipated requirements for
+working capital, dividends, capital expenditures, the stock repurchase program
+and other cash needs.
+
+Working Capital
+
+     As of June 30, 2001 and December 31, 2000, current assets exceeded
+current liabilities by $218.0 and $186.4, respectively.  The increase of
+current assets over current liabilities of $31.6 was primarily due to higher
+inventories and a decrease in accounts payable, reflecting the seasonal
+pattern of Avon's operations, as well as the payout of the Company's 2000 cash
+incentive programs.  The increase was partially offset by the receipt of an
+income tax refund in 2001 and the 2001 Japanese yen denominated loan, which
+hedges Avon's net investment in Japan.
+
+Financial Instruments and Risk Management Strategies
+
+    The Company operates globally, with manufacturing and distribution
+facilities in various locations around the world.  The Company may reduce its
+exposure to fluctuations in interest rates and foreign exchange rates by
+creating offsetting positions through the use of derivative financial
+instruments.  The Company currently does not enter into derivative financial
+instruments for trading or speculative purposes, nor is the Company a party to
+leveraged derivatives.
+
+     All derivatives are recognized on the balance sheet at their fair value.
+The accounting for changes in fair value (gains or losses) of a derivative
+instrument depends on whether it has been designated and qualifies as part of
+a hedging relationship and further, on the type of hedging relationship.
+Changes in the fair value of a derivative that is designated as a fair value
+hedge, along with the loss or gain on the hedged asset or liability that is
+attributable to the hedged risk are recorded in current earnings.  Changes in
+the fair value of a derivative that is designated as a cash flow hedge are
+recorded in other comprehensive income ("OCI") to the extent effective and
+reclassified into earnings in the same period or periods during which the
+hedged transaction affects earnings.  Changes in the fair value of a
+derivative that is designated as a hedge of a net investment in a foreign
+operation are recorded in foreign currency translation adjustments within OCI
+to the extent effective as a hedge.  Changes in the fair value of a derivative
+not designated as hedging instruments are recognized in current earnings.
+
+      The Company assesses, both at the hedge's inception and on an ongoing
+basis, whether the derivatives that are used in hedging transactions are
+highly effective in offsetting changes in fair values or cash flows of hedged
+items.  The ineffective portion of the derivative's gain or loss, if any, is
+recorded in current earnings.  Prior to June 1, 2001, the Company excluded the
+change in time value of options in its assessment of hedge effectiveness.
+Effective June 1, 2001, the Company includes the change in time value of
+option contracts in its assessment of hedge effectiveness.  When it is
+determined that a derivative is not highly effective as a hedge, the Company
+discontinues hedge accounting prospectively.  When hedge accounting is
+discontinued because it is probable that a forecasted transaction will not
+occur, the Company discontinues hedge accounting for the affected portion of
+the forecasted transaction, and gains and losses that were accumulated in OCI
+are recognized in earnings.
+
+
+
+
+
+
+
+
+<Page>
+                                     25
+
+                           AVON PRODUCTS, INC.
+              MANAGEMENT'S DISCUSSION AND ANALYSIS OF THE
+              RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+                     (In millions, except share data)
+
+Interest Rates
+     The Company uses interest rate swaps to hedge interest rate risk on its
+debt. In addition, the Company may periodically employ interest rate caps to
+reduce exposure, if any, to increases in variable interest rates.
+
+     The Company has entered into interest rate swap contracts that
+effectively convert a portion of its fixed-rate debt to a variable-rate based
+on LIBOR. The Company has designated the interest rate swaps as fair value
+hedges. At June 30, 2001, $550.0 of the company's outstanding long-term debt
+is designated as the hedged items to interest rate swap contracts.
+Accordingly, long-term debt increased by $22.6 during the six months ended
+June 30, 2001, with a corresponding increase to Other assets to reflect the
+fair value of outstanding interest rate swaps.   There were no amounts of
+hedge ineffectiveness for the three and six months ended June 30, 2001,
+related to these interest rate swaps.
+
+Foreign Currency
+     The Company uses foreign currency forward contracts and options to hedge
+portions of its forecasted foreign currency cash flows resulting from
+forecasted royalties, intercompany loans, and other anticipated foreign
+currency transactions where there is a high probability that anticipated
+exposures will materialize, including third-party and intercompany foreign
+currency transactions.  These contracts have been designated as cash flow
+hedges.
+
+     For the three and six months ended June 30, 2001, the net gain related to
+the ineffective portion of the Company's cash-flow hedging instruments, and
+the net loss related to the portion of the hedging instrument excluded from
+the assessment of hedge effectiveness (time value of options prior to June 1,
+2001) was not material. The net gain reclassified from OCI to earnings for
+cash-flow hedges that have been discontinued, because the forecasted
+transactions are not probable of occurring, for the three and six months ended
+June 30, 2001, was not material.
+
+
+
+
+<Page>
+                                    26
+
+                            AVON PRODUCTS, INC.
+              MANAGEMENT'S DISCUSSION AND ANALYSIS OF THE
+              RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+                     (In millions, except share data)
+
+     As of June 30, 2001, the Company expects to reclassify $1.9 of net losses
+on derivative instruments from accumulated other comprehensive income to
+earnings during the next twelve months due to (a) foreign currency royalties
+(b) intercompany loans settlements and (b) actual foreign currency denominated
+purchases or receipts.  The maximum remaining term over which the Company is
+hedging exposures to the variability of cash flows for all forecasted
+transactions is eighteen months.
+
+     The Company also enters into foreign currency forward contracts and
+options to protect against the adverse effects that exchange rate fluctuations
+may have on the earnings of its foreign subsidiaries.  These derivatives do not
+qualify for hedge accounting and the gains and losses on these derivatives are
+recognized in current earnings.
+
+Hedges of Net Investments in Foreign Operations
+     The Company uses foreign currency forward contracts and foreign currency
+denominated debt to hedge the foreign currency exposure related to the net
+assets of the Company's foreign subsidiaries.
+
+     As of June 30, 2001, the Company has entered into a loan agreement to
+borrow Japanese yen to hedge Avon's net investment in its Japanese subsidiary.
+For the six months ended June 30, 2001, a $3.5 gain related to the revaluation
+of foreign currency denominated debt was included in foreign currency
+translation adjustments within accumulated other comprehensive loss on the
+Consolidated Balance Sheets.
+
+Credit and Market Risk
+     The Company attempts to minimize its credit exposure to counterparties by
+entering into interest rate swap and cap contracts only with major
+international financial institutions with "A" or higher credit ratings as
+issued by Standard & Poor's Corporation. The Company's foreign currency and
+interest rate derivatives are comprised of over-the-counter forward contracts
+or options with major international financial institutions. Although the
+Company's theoretical credit risk is the replacement cost at the then
+estimated fair value of these instruments, management believes that the risk
+of incurring losses is remote and that such losses, if any, would not be
+material.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Page>
+                                       27
+
+
+                            AVON PRODUCTS, INC.
+               MANAGEMENT'S DISCUSSION AND ANALYSIS OF THE
+              RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+                     (In millions, except share data)
+
+Euro
+
+     A single currency called the euro was introduced in Europe on January 1,
+1999.  Eleven of the fifteen member countries of the European Union adopted
+the euro as their common legal currency on that date.  Fixed conversion rates
+between these participating countries' existing currencies (the "legacy
+currencies") and the euro were established as of that date. The legacy
+currencies are scheduled to remain legal tender as denominations of the euro
+until June 30, 2002 after which they will be withdrawn from circulation.
+During this transition period, parties may settle transactions using either
+the euro or a participating country's legal currency.  Beginning in January
+2002, new euro-denominated bills and coins will be issued.
+
+     Avon operating subsidiaries affected by the euro conversion have
+established plans to address issues raised by the euro currency
+conversion.  These issues include, among others, the need to adapt
+information technology systems, business processes and equipment to
+accommodate euro-denominated transactions, the impact of one common
+currency on pricing and recalculating currency risk.  Avon does not
+expect system and equipment conversion costs to be material.  Due to the
+numerous uncertainties associated with the market impact of the euro
+conversion, the Company cannot reasonably estimate the effects one
+common currency will have on pricing and the resulting impact, if any,
+on results of operations, financial condition or cash flows.
+
+Other Information
+
+     In July 2001, the Company announced that, due a change in Sears' business
+strategy, that will include de-emphasizing cosmetics, Avon will not proceed
+with the launch of the retail brand, beComing in Sears stores this fall.  In
+July 2001, Avon and Sears reached an agreement, under which Avon received a
+cash settlement, net of related expenses, of approximately $26.0 to compensate
+Avon for lost profits and incremental expenses as a result of the cancellation
+of the retail agreement.  In addition, the Company will receive store fixturing
+from Sears (also as a result of the cancellation of the retail agreement),
+which may be used in future retail sites.
+
+     Avon will continue with the launch of the beComing brand in J.C. Penney
+stores in the fall of 2001.
+
+     The termination of the retail venture with Sears will result in a gain in
+the third quarter of 2001 but will impact subsequent periods due to the loss
+of anticipated contribution from the Sears business.  The aggregate impact of
+the termination is expected to be neutral over the remainder of 2001 and 2002.
+
+
+
+
+<Page>
+                                      28
+
+
+
+CAUTIONARY STATEMENT FOR PURPOSES OF THE "SAFE HARBOR" STATEMENT UNDER THE
+PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+
+     Certain statements in this report which are not historical facts or
+information are forward-looking statements within the meaning of the Private
+Securities Litigation Act of 1995.  Such forward-looking statements are based
+on management's reasonable current assumptions and expectations.  Such forward-
+looking statements involve risks, uncertainties and other factors which may
+cause the actual results, levels of activity, performance or achievement of the
+Company to be materially different from any future results, levels of activity,
+performance or achievement expressed or implied by such forward-looking
+statements, and there can be no assurance that actual results will not differ
+materially from management's expectations.  Such factors include, among others,
+the following:  general economic and business conditions; the Company's ability
+to implement its business strategy; the Company's ability to successfully
+identify new business opportunities; the Company's access to financing; the
+impact of substantial currency fluctuations in the Company's principal foreign
+markets; the Company's ability to attract and retain key executives; the
+Company's ability to achieve anticipated cost savings and profitability
+targets; changes in the industry; competition; the effect of regulatory, tax
+and legal proceedings and restrictions imposed by domestic and foreign
+governments; and other factors discussed in Item 1 of the Company's Form 10-K.
+As a result of the foregoing and other factors, no assurance can be given as to
+the future results and achievements of the Company.  Neither the Company nor
+any other person assumes responsibility for the accuracy and completeness of
+such forward-looking statements, nor undertakes an obligation to update them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Page>
+                                       29
+
+
+                            AVON PRODUCTS, INC.
+                        PART II. OTHER INFORMATION
+
+
+
+Item 6.  Exhibits and Reports on Form 8-K.
+(a)  Exhibits
+
+     Exhibit
+     Number              Description
+     -------             ------------------------
+4.1 $600,000,000 Revolving Credit and Competitive Advance
+Facility Agreement, dated as of May 1, 2001, among
+Avon, Avon Capital Corporation and a group of banks
+and other lenders
+
+
+(b)  Reports on Form 8-K.
+
+     There were no reports on Form 8-K filed during the second quarter of
+2001.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Page>
+
+                                       30
+
+
+                                SIGNATURES
+
+
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+
+
+                                      AVON PRODUCTS, INC.
+                                      -------------------
+                                         (Registrant)
+
+
+Date:  August 10, 2001       By /s/      Janice Marolda
+                             -------------------------------
+                                   Janice Marolda
+                                   Vice President,
+                                   Controller
+                                   Principal Accounting Officer
+
+                                   Signed both on behalf of the
+                                   registrant and as principal
+                                   accounting officer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Page>
+                                     31
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,2110 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>form10q0303.txt
+<DESCRIPTION>AVON PRODUCTS, INC COVER FORM 10Q 0303
+<TEXT>
+CONFORMED COPY
+
+                                  FORM 10-Q
+
+                                UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+
+          [x] Quarterly Report Pursuant to Section 13 or 15(d) of the
+                        Securities Exchange Act of 1934
+
+                 For the quarterly period ended March 31, 2003
+
+                                      OR
+
+         [ ] Transition Report Pursuant to Section 13 or 15(d) of the
+                        Securities Exchange Act of 1934
+
+                   For the transition period from ___ to ___
+
+                         Commission file number 1-4881
+
+
+
+                AVON PRODUCTS, INC.
+    (Exact name of registrant as specified in its charter)
+
+
+
+           New York                                        13-0544597
+(State or other jurisdiction of                        (I.R.S. Employer
+Incorporation or organization)                        Identification No.)
+
+
+          1345 Avenue of the Americas, New York, N.Y.  10105-0196
+                   (Address of principal executive offices)
+
+                               (212) 282-5000
+                             (Telephone Number, including area code)
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.     Yes   X        No  ___
+
+     Indicate by check mark whether the registrant is an accelerated filer
+(as defined by Rule 12b-2 of the Securities Exchange Act of 1934).
+                                                   Yes   X        No  ___
+
+     The number of shares of Common Stock (par value $.25) outstanding at
+April 30, 2003 was 234,822,672.
+
+
+
+
+<Page>
+
+
+                            Table of Contents
+
+                                                                     Page
+                                                                  Numbers
+                                                                  -------
+                     Part I.  Financial Information
+
+
+Item 1.  Financial Statements (Unaudited)
+
+         Consolidated Statements of Income
+           Three Months Ended March 31, 2003 and
+             March 31, 2002.....................................        3
+
+         Consolidated Balance Sheets
+           March 31, 2003 and December 31, 2002.................        4
+
+         Consolidated Statements of Cash Flows
+           Three Months Ended March 31, 2003 and
+             March 31, 2002.....................................        5
+
+         Notes to Consolidated Financial Statements.............     6-19
+
+
+
+Item 2.  Management's Discussion and Analysis of
+         Financial Condition and Results of Operations..........    20-31
+
+Item 3.  Quantitative and Qualitative Disclosures
+         About Market Risk .....................................       31
+
+Item 4.  Controls and Procedures ...............................       32
+
+
+
+
+                   Part II.  Other Information
+
+Item 1.  Legal Proceedings .....................................       33
+
+Item 6.  Exhibits and Reports on Form 8-K.......................       33
+
+Signature ......................................................       34
+
+Certifications  ................................................    35-36
+
+
+
+<Page>
+
+
+
+
+
+
+                      PART I.  FINANCIAL INFORMATION
+
+                            AVON PRODUCTS, INC.
+                     CONSOLIDATED STATEMENTS OF INCOME
+                                 (Unaudited)
+                    (In millions, except per share data)
+
+                                                       Three months ended
+                                                            March 31
+                                                     ----------------------
+                                                         2003          2002
+                                                     --------      --------
+
+Net sales........................................... $1,465.7      $1,372.1
+
+Other revenue.......................................     15.7          11.5
+                                                     --------       -------
+Total revenue.......................................  1,481.4       1,383.6
+
+Costs, expenses and other:
+  Cost of sales.....................................    574.2         540.9
+  Marketing, distribution and administrative expenses   743.6         690.1
+                                                     --------      --------
+Operating profit....................................    163.6         152.6
+
+  Interest expense..................................      9.9          13.4
+  Interest income...................................     (2.5)         (4.3)
+  Other expense(income), net.......................       1.8          (6.0)
+                                                     --------      --------
+Total other expense, net............................      9.2           3.1
+                                                     --------      --------
+
+Income from continuing operations before taxes
+  and minority interest.............................    154.4         149.5
+Income taxes........................................     54.0          52.1
+                                                     --------      --------
+Income before minority interest .....................   100.4          97.4
+Minority interest...................................     (1.5)         (1.1)
+                                                     --------      --------
+Net income ......................................... $   98.9      $   96.3
+                                                     ========      ========
+
+Earnings per share:
+  Basic ............................................ $    .42      $    .41
+  Diluted........................................... $    .42      $    .40
+
+Weighted-average shares outstanding:
+  Basic ............................................   235.09        236.70
+  Diluted...........................................   243.82        246.30
+
+
+The accompanying notes are an integral part of these statements.
+
+
+
+<Page>
+                            AVON PRODUCTS, INC.
+                        CONSOLIDATED BALANCE SHEETS
+                                (Unaudited)
+                               (In millions)
+
+                                                      March 31    December 31
+                                                        2003          2002
+                                                     ----------   -----------
+ASSETS
+Current assets:
+Cash and cash equivalents........................    $  452.7      $  606.8
+Accounts receivable..............................       530.4         555.4
+Inventories......................................       690.0         614.7
+Prepaid expenses and other.......................       282.5         271.3
+                                                     --------      --------
+Total current assets.............................     1,955.6       2,048.2
+                                                     --------      --------
+
+Property, plant and equipment, at cost...........     1,559.5       1,548.4
+Less accumulated depreciation....................       796.7         779.3
+                                                     --------      --------
+                                                        762.8         769.1
+Other assets.....................................       504.6         510.2
+                                                     --------      --------
+Total assets.....................................    $3,223.0      $3,327.5
+                                                     ========      ========
+LIABILITIES AND SHAREHOLDERS'(DEFICIT)EQUITY
+Current liabilities:
+Debt maturing within one year....................    $  606.8      $  605.2
+Accounts payable.................................       385.6         379.9
+Accrued compensation.............................        88.5         175.7
+Other accrued liabilities........................       336.2         336.6
+Sales and taxes other than income................       114.9         125.1
+Income taxes.....................................       355.4         353.0
+                                                     --------      --------
+Total current liabilities........................    $1,887.4       1,975.5
+                                                     --------      --------
+Long-term debt...................................       764.9         767.0
+Employee benefit plans...........................       532.8         560.4
+Deferred income taxes............................        33.9          35.4
+Other liabilities................................       117.2         116.9
+
+Contingencies (Note 6)
+
+Shareholders'(deficit)equity:
+Common stock.....................................        89.8          89.6
+Additional paid-in capital.......................     1,042.5       1,019.5
+Retained earnings................................     1,785.1       1,735.3
+Accumulated other comprehensive loss  ...........      (798.2)       (791.4)
+Treasury stock, at cost..........................    (2,232.4)     (2,180.7)
+                                                     --------      --------
+Total shareholders'(deficit)equity...............      (113.2)       (127.7)
+                                                     --------      --------
+Total liabilities and shareholders'(deficit)equity   $3,223.0      $3,327.5
+                                                     ========      ========
+The accompanying notes are an integral part of these statements.
+
+<Page>
+                            AVON PRODUCTS, INC.
+                   CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                (Unaudited)
+                               (In millions)
+                                                           Three months ended
+                                                                March 31
+                                                           ------------------
+                                                           2003         2002
+                                                          ------       ------
+Cash flows from operating activities:
+Net income..............................................  $ 98.9       $ 96.3
+Adjustments to reconcile net income to net cash used in
+  operating activities:
+Special payments........................................   (10.6)        (7.3)
+Asset write-downs ......................................    12.1            -
+Depreciation and amortization...........................    30.2         29.6
+Provision for doubtful accounts.........................    30.1         29.3
+Amortization of debt discount...........................     4.1          3.8
+Foreign exchange losses (gains).........................     1.4        (10.7)
+Deferred income taxes...................................      .9         (1.5)
+Other...................................................     5.0          3.2
+Changes in assets and liabilities:
+  Accounts receivable...................................     (.7)       (27.1)
+  Inventories...........................................   (82.5)       (71.8)
+  Prepaid expenses and other............................   (13.9)       (10.4)
+  Accounts payable and accrued liabilities..............   (74.6)       (96.5)
+  Income and other taxes................................    (7.2)        (2.0)
+  Noncurrent assets and liabilities.....................   (33.1)         2.8
+                                                          ------       ------
+Net cash used in operating activities...... ............   (39.9)       (62.3)
+                                                          ------       ------
+Cash flows from investing activities:
+Capital expenditures....................................   (25.2)       (14.6)
+Disposal of assets......................................     2.1           .2
+Purchases of investments................................    (5.5)        (8.5)
+Proceeds from sales of investments......................     5.3         13.3
+Other investing activities..............................     (.3)         (.8)
+                                                          ------       ------
+Net cash used in investing activities...................   (23.6)       (10.4)
+                                                          ------       ------
+Cash flows from financing activities:
+Cash dividends..........................................   (51.6)       (49.5)
+Book overdraft..........................................      .5          (.5)
+Debt, net (maturities of three months or less)..........     4.4          5.8
+Proceeds from short-term debt...........................    12.5         17.9
+Retirement of short-term debt...........................   (20.6)       (27.6)
+Repurchase of common stock..............................   (52.1)       (54.5)
+Proceeds from exercise of stock options, net of taxes...    17.2         30.8
+                                                          ------       ------
+Net cash used in financing activities...................   (89.7)       (77.6)
+                                                          ------       ------
+Effect of exchange rate changes on cash and equivalents.     (.9)        (5.4)
+                                                          ------       ------
+Net decrease in cash and equivalents....................  (154.1)      (155.8)
+Cash and equivalents at beginning of period.............   606.8        508.5
+                                                          ------       ------
+Cash and equivalents at end of period................... $ 452.7      $ 352.7
+                                                         =======      =======
+The accompanying notes are an integral part of these statements.
+
+<Page>
+
+AVON PRODUCTS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(In millions, except share data)
+
+
+1.  ACCOUNTING POLICIES
+
+
+Basis of Presentation
+
+    The accompanying Consolidated Financial Statements should be read in
+conjunction with the Consolidated Financial Statements and the Notes thereto
+contained in Avon's 2002 Annual Report to Shareholders. The interim
+statements are unaudited but include all adjustments, consisting of normal
+recurring adjustments, that management considers necessary to fairly present
+the results for the interim periods.  Results for interim periods are not
+necessarily indicative of results for a full year.  The year-end balance
+sheet data was derived from audited financial statements, but does not
+include all disclosures required by generally accepted accounting
+principles.
+
+     To conform to the 2003 presentation, certain reclassifications were
+made to the prior periods' consolidated financial statements and the
+accompanying footnotes.
+
+Consolidation of Variable Interest Entities
+
+     In January 2003, the Financial Accounting Standards Board ("FASB")
+issued FASB Interpretation No. 46, "Consolidation of Variable Interest
+Entities" ("FIN 46"), which changes the criteria by which one company
+includes another entity in its consolidated financial statements. FIN 46
+requires a variable interest entity to be consolidated by a company if that
+company is subject to a majority of the risk of loss from the variable
+interest entity's activities or entitled to receive a majority of the
+entity's residual returns or both. The consolidation requirements of FIN 46
+are effective immediately for variable interest entities created after
+January 31, 2003, and July 1, 2003, for variable interest entities created
+prior to February 1, 2003. The provisions of the interpretation are
+currently being evaluated, but management believes its adoption will not
+have a material impact on the Consolidated Financial Statements.
+
+
+2.  EARNINGS PER SHARE
+
+    Basic earnings per share ("EPS") were computed by dividing Net income by
+the weighted-average number of shares outstanding during the period.
+Diluted EPS were calculated to give effect to all potentially dilutive
+common shares that were outstanding during the period.
+
+    For the three months ended March 31, 2003 and 2002, the components of
+basic and diluted earnings per share were as follows:
+
+                                                2003      2002
+Numerator:
+   Net income for purposes of computing
+   basic EPS                                 $  98.9     $ 96.3
+
+   Interest expense on convertible notes,
+   net of taxes                                  2.7        2.6
+
+   Net income for purposes of computing
+   diluted EPS                               $ 101.6    $  98.9
+
+<Page>
+
+Denominator:
+Basic EPS weighted-average shares
+   Outstanding                                235.09     236.70
+
+Dilutive effect of:
+   Assumed conversion of
+   stock options and settlement of
+   forward contracts (1)                       1.77       2.64
+   Assumed conversion of convertible notes     6.96       6.96
+
+Diluted EPS weighted-average
+   shares outstanding                        243.82     246.30
+
+Basic EPS                                   $   .42    $   .41
+Diluted EPS                                 $   .42    $   .40
+
+(1)	At March 31, 2003 and 2002, stock options and forward contracts to
+purchase Avon common stock totaling 3.2 million shares and 0.3 million
+shares, respectively, were not included in the earnings per share
+calculation since their impact is anti-dilutive.
+
+    Avon purchased approximately 996,000 shares of Avon common stock for
+$52.1 during the first three months of 2003, as compared to approximately
+1,100,000 shares of Avon common stock for $57.4 during the first three
+months of 2002, under a previously announced share repurchase program.
+
+
+3.  INVENTORIES
+                                   March 31            December 31
+                                       2003                   2002
+                                     ------                 ------
+    Raw materials................    $172.1                 $165.6
+    Finished goods...............     517.9                  449.1
+                                     ------                 ------
+                                     $690.0                 $614.7
+                                     ======                 ======
+
+4.  DIVIDENDS
+
+Cash dividends paid per share of common stock were $.21 for the three
+months ended March 31, 2003, and $.20 for the corresponding 2002 period.  On
+January 31, 2003, Avon increased the annualized dividend rate to $.84 from
+$.80.
+
+
+5.	STOCK-BASED COMPENSATION
+
+     Avon applies the recognition and measurement principles of Accounting
+Principles Board ("APB") Opinion 25, "Accounting for Stock Issued to
+Employees," and released interpretations in accounting for its long-term
+stock-based incentive plans.  No compensation cost related to grants of
+stock options was reflected in Net income, as all options granted under the
+plans had an exercise price equal to the market value of the underlying
+common stock on the date of grant.  Compensation cost related to grants of
+restricted stock is equal to the quoted market price of Avon's stock at the
+measurement date and is amortized to expense over the vesting period.
+Compensation expense under grants of restricted stock for the three months
+ended March 31, 2003 and 2002, was $1.8 and $2.2, respectively.  The effects
+on Net income and Earnings per share if Avon had applied the fair value
+recognition provisions of FAS No. 123, "Accounting for Stock-Based
+Compensation," to stock-based compensation for three months ended March 31,
+2003 and 2002 were as follows:
+
+<Page>
+                                                    2003         2002
+                                                    ----         ----
+
+Net income, as reported                            $98.9        $96.3
+Less: Stock-based compensation
+  expense determined under
+  FAS No. 123, net of tax                           (7.6)        (5.8)
+Pro forma Net income                                91.3         90.5
+Earnings per share:
+  Basic - as reported                               $.42        $ .41
+  Basic - pro forma                                 $.38        $ .38
+  Diluted - as reported                             $.42        $ .40
+  Diluted - pro forma                               $.39        $ .38
+
+
+6.  CONTINGENCIES
+
+     Avon is a defendant in a class action suit commenced in 1991 on behalf
+of certain classes of holders of Avon's Preferred Equity-Redemption
+Cumulative Stock ("PERCS"). Plaintiffs allege various contract and
+securities law claims related to the PERCS (which were fully redeemed in
+1991) and seek aggregate damages of approximately $145.0, plus interest.  A
+trial of this action took place in the United States District Court for the
+Southern District of New York and concluded in November 2001.  At the
+conclusion of the trial, the judge reserved decision in the matter.  Avon
+believes it presented meritorious defenses to the claims asserted.  However,
+it is not possible to predict the outcome of litigation and it is reasonably
+possible that the trial, and any possible appeal, could be decided
+unfavorably.  Management is unable to make a meaningful estimate of the
+amount or range of loss that could result from an unfavorable outcome but,
+under some of the damage theories presented, an adverse award could be
+material to the Consolidated Financial Statements.
+
+     Avon is a defendant in an action commenced in the Supreme Court of the
+State of New York by Sheldon Solow d/b/a Solow Building Company, the
+landlord of the Company's former headquarters in New York City.  Plaintiff
+seeks aggregate damages of approximately $80.0, plus interest, for the
+Company's alleged failure to restore the leasehold premises at the
+conclusion of the lease term in 1997.  A trial of this matter was scheduled
+for February 2002, but was stayed pending the determination of (i) an
+interlocutory appeal by plaintiff of an order that denied the plaintiff's
+motion for summary judgment and granted partial summary judgment in favor of
+the Company on one of the plaintiff's claims; and (ii) an appeal by
+plaintiff of a decision in an action against another former tenant that
+dismissed plaintiff's claims after trial.  In January 2003, both appeals
+were decided against the plaintiff.  Plaintiff has filed motions to appeal
+both decisions and a trial has not yet been scheduled.  While it is not
+possible to predict the outcome of litigation, management believes that
+there are meritorious defenses to the claims asserted and that this action
+should not have a material adverse effect on the Consolidated Financial
+Statements.  This action is being vigorously contested.
+
+     Avon Products Foundation, Inc. (the "Avon Foundation") is a defendant
+in an arbitration proceeding brought by Pallotta TeamWorks ("Pallotta") on
+September 3, 2002, before Judicial Arbitration and Mediation Services, Inc.
+("JAMS").  Pallotta asserts claims of breach of contract, misappropriation
+of opportunity, tortious interference with prospective contractual
+arrangement and unfair competition arising out of the Avon Foundation's
+decision to use another party to conduct breast cancer fundraising events,
+and seeks unspecified damages and attorneys' fees.  In January 2003,
+
+<Page>
+Pallotta's misappropriation claim was dismissed by the arbitrator.  In
+February 2003, Pallotta's unfair competition claim was also dismissed by the
+arbitrator.  A hearing on the remaining claims has been scheduled for July
+2003.  The Avon Foundation believes that it has meritorious defenses to the
+claims asserted by Pallotta and has filed a number of counterclaims, and
+initiated a separate arbitration proceeding before JAMS.  The Avon
+Foundation is a registered 501(c)(3) charity and is a distinct entity from
+Avon Products, Inc., which is not a party to these proceedings.   While it
+is not possible to predict the outcome of litigation, management believes
+that these proceedings should not have a material adverse effect on the
+Consolidated Financial Statements of the Company.
+
+     On December 20, 2002, a Brazilian subsidiary of the Company received a
+series of tax assessments from the Brazilian tax authorities asserting that
+the establishment in 1995 of separate manufacturing and distribution
+companies in that country was done without a valid business purpose.  The
+assessments assert tax deficiencies during portions of the years 1997 and
+1998 of approximately $61.0 at the exchange rate on the date of this filing,
+plus penalties and accruing interest totaling approximately $115.0 at the
+exchange rate on the date of this filing.  In the event that the assessments
+are upheld in the earlier stages of review, it may be necessary for the
+Company to provide security to pursue further appeals, which, depending on
+the circumstances, may result in a charge to income.  It is not possible to
+make a reasonable estimate of the amount or range of expense that could
+result from an unfavorable outcome in respect of these or any additional
+assessments that may be issued for subsequent periods.  The structure
+adopted in 1995 is comparable to that used by many companies in Brazil, and
+the Company believes it is appropriate, both operationally and legally, and
+that the assessments are unfounded.  This matter is being vigorously
+contested and in the opinion of the Company's outside counsel the likelihood
+that the assessments ultimately will be upheld is remote.  Management
+believes that the likelihood that the assessments will have a material
+impact on the Consolidated Financial Statements is also remote.
+
+     Polish subsidiaries of the Company have been responding to Protocols of
+Inspection served by the Polish tax authorities in respect of 1999 and 2000
+tax audits.  The Protocols asserted tax deficiencies, penalties and accruing
+interest totaling approximately $30.0 at the exchange rate on the date of
+this filing: $17.0 primarily relating to the documentation of certain sales,
+and $13.0 relating to excise taxes.  The procedural rules for conducting
+audits in Poland changed effective January 1, 2003, and the Company was
+informed on January 14, 2003 and January 17, 2003, respectively, that the
+tax authorities had rejected the Company's factual assertions regarding the
+alleged tax deficiencies.  Under the new procedures, each matter has now
+either commenced or is awaiting the commencement of a second stage of
+proceeding at which the applicable legal conclusions will be determined.
+Notice has been received in respect of one element of the excise tax matter,
+indicating that a second-stage final assessment may be issued without
+further notice from the tax authorities.  In the event that assessments are
+finally established at the second stage of the proceedings, it may be
+necessary to pay the assessments in order to pursue further appeals, which
+may result in a charge to income.  Management believes that there are
+meritorious defenses to these proceedings and they are being vigorously
+contested.  It is not possible to make a reasonable estimate of the amount
+or range of expense that could result from an unfavorable outcome in these
+proceedings but management does not believe that the proceedings ultimately
+will have a material impact on the Consolidated Financial Statements.
+
+Various other lawsuits and claims (asserted and unasserted), arising
+in the ordinary course of business or related to businesses previously sold,
+are pending or threatened against Avon.  In the opinion of Avon's
+management, based on its review of the information available at this time,
+
+<Page>
+the total cost of resolving such other contingencies at March 31, 2003,
+should not have a material adverse effect on the Consolidated Financial
+Statements.
+
+
+7.  COMPREHENSIVE INCOME
+    For the three months ended March 31, 2003 and 2002, the components of
+comprehensive income were as follows:
+                                                 2003       2002
+                                               ------     ------
+Net income                                     $ 98.9     $ 96.3
+  Other comprehensive loss:
+    Foreign currency translation and
+       transaction adjustments                   (5.3)     (29.2)
+    Unrealized loss from available-for-sale
+       securities                                 (.5)       (.2)
+    Net derivative (losses)gains on cash
+       flow hedges                               (1.0)        .5
+                                               ------     ------
+Comprehensive income                           $ 92.1     $ 67.4
+                                               ======     ======
+
+     Cash flow hedges impacted other comprehensive loss as follows for the
+three months ended March 31:
+                                                2003        2002
+                                              ------      ------
+Net losses on derivative instruments          $  (.7)     $ (1.5)
+Reclassification of (gains)losses to earnings    (.3)        2.0
+                                               ------      -----
+Net (decrease)increase to other
+   comprehensive loss                         $ (1.0)      $  .5
+                                               ======      =====
+
+
+8.  SPECIAL CHARGES
+
+     In May 2001, Avon announced its new Business Transformation plans,
+which are designed to significantly reduce costs and expand profit margins,
+while continuing to focus on consumer growth strategies.  Business
+Transformation initiatives include an end-to-end evaluation of business
+processes in key operating areas, with target completion dates through 2004.
+Specifically, the initiatives focus on simplifying Avon's marketing
+processes, taking advantage of supply chain opportunities, strengthening
+Avon's sales model through the Sales Leadership program and the Internet,
+streamlining the Company's organizational structure and integrating certain
+similar activities across markets to achieve efficiencies.  Avon anticipates
+significant benefits from these Business Transformation initiatives, but the
+scope and complexity of these initiatives necessarily involve planning and
+execution risk.
+
+Special Charges - Fourth Quarter 2001
+
+     In the fourth quarter of 2001, Avon recorded Special charges of $97.4
+pretax ($68.3 after tax, or $.28 per share on a diluted basis) primarily
+associated with facility rationalizations and workforce reduction programs
+related to implementation of certain Business Transformation initiatives.
+The charges of $97.4 were included in the Consolidated Statement of Income
+for 2001 as Special charges ($94.9) and as inventory write-downs, which were
+included in Cost of sales ($2.5).  Approximately 80% of the charges relate
+to future cash expenditures.  Approximately 60% of these cash expenditures
+were made by March 2003, with approximately 90% of total cash payments to be
+
+<Page>
+made by December 2003.  All payments are funded by cash flow from
+operations.
+
+
+     Special charges by business segment were as follows:
+
+<TABLE>
+<CAPTION>
+<S>                      <C>         <C>         <C>        <C>         <C>        <C>
+                                                                      Corporate
+                        North                   Latin                 and
+                        America*     U.S.       America    Europe     Other      Total
+Facility
+  rationalizations**    $  16.8      $  14.3    $  17.7    $  13.2    $     -    $  62.0
+Workforce reduction
+  programs                   .9          9.7        6.4        2.1       14.0       33.1
+Other                         -          2.1          -          -         .2        2.3
+Total accrued charges   $  17.7(1)   $  26.1(2) $  24.1(3) $  15.3(4) $  14.2(5) $  97.4
+
+Number of employee
+  terminations              362          460      2,007        533        125      3,487
+
+</TABLE>
+
+*Excludes amounts related to the U.S.
+**Includes accrued severance and related costs associated with facility
+rationalizations.
+
+(1) The majority of the special charge within the North America segment
+related to a plan to outsource jewelry manufacturing through third party
+vendors, resulting in the closure of a jewelry manufacturing facility in
+Puerto Rico.
+(2) The special charge within the U.S. segment primarily related to the
+closure of a manufacturing facility in Suffern, New York.  Production is
+being moved to an existing facility in Springdale, Ohio and to one or more
+third party manufacturers.  To a lesser extent, the special charge also
+included workforce reduction programs within the marketing and supply chain
+functions as well as the closure of four express centers (distribution
+centers where customers pick up products).
+(3) The majority of the special charge within the Latin America segment
+related to the closure of a manufacturing and distribution facility in
+Mexico City, Mexico.  The project also included a construction plan to
+expand an existing facility in Celaya, Mexico and the movement of the
+manufacturing and distribution functions on a staged basis to the newly
+constructed site.  To a lesser extent, the special charge also included
+workforce reduction programs in Brazil (primarily in the supply chain
+function) and in Argentina and Mexico (across numerous functional areas).
+(4) The special charge within Europe primarily related to the closure of a
+manufacturing facility in the United Kingdom, with most of the production
+moving to an existing facility in Poland.
+(5) The Corporate and other special charge was the result of workforce
+reduction programs which spanned much of the organization, including the
+legal, human resources, information technology, communications, finance,
+marketing and research & development departments.
+
+     Special charges by category of expenditures were as follows:
+
+<TABLE>
+<CAPTION>
+<S>                     <C>       <C>     <C>      <C>         <C>         <C>      <C>
+                                                                           Accrued
+                      Accrued                                            Facility
+                      Severance          Asset                           Rational-
+                      and       Cost of  Impair- Special     Contract    ization
+                      Related   Sales    ment    Termination Termination and Other
+                      Costs     Charge   Charge  Benefits    Costs       Costs     Total
+
+Facility
+  rationalizations    $ 42.9   $  2.5   $   5.1   $  5.0    $  2.2    $    4.3   $  62.0
+Workforce reduction
+  programs              26.9        -         -      6.2         -           -      33.1
+Other                      -        -        .3        -       1.3          .7       2.3
+Total accrued charges $ 69.8   $  2.5   $   5.4   $ 11.2    $  3.5    $    5.0   $  97.4
+
+</TABLE>
+<Page>
+
+     Accrued severance and related costs are expenses associated with
+domestic and international facility rationalizations and workforce reduction
+programs.  Employee severance costs were accounted for in accordance with
+the Company's existing FAS No. 112, "Employers' Accounting for Post-
+employment Benefits," severance plans or in accordance with other accounting
+literature.  Approximately 3,500 employees, or 8.0% of the total workforce,
+will receive severance benefits.  Approximately 85% of the number of
+employees to be terminated relate to facility rationalizations, which
+represents employees within the manufacturing and distribution functions.
+The remainder of the employee severance costs are associated with workforce
+reduction programs, which span much of the organization including the
+functional areas of marketing, sales, information technology, human
+resources, finance, research & development, legal, communications and
+strategic planning.  The facility rationalizations will primarily result in
+expanding production in existing facilities (Europe and U.S.), building a
+new facility (Latin America) and sourcing product through third party
+vendors (North America including the U.S.).  In certain circumstances,
+employees terminated due to facility rationalizations will need to be
+replaced.  The majority of the employee severance costs will be paid by the
+end of 2003 in accordance with the original plan.
+
+     The Cost of sales charge represented losses for inventory write-downs
+associated with a facility closure in Puerto Rico.
+
+     Primarily as a result of facility rationalizations, management
+identified indicators of possible impairment of certain long-lived assets,
+consisting of buildings and improvements, equipment and other assets.  In
+assessing and measuring impairment of long-lived assets, the Company applied
+the provisions of FAS No. 121, "Accounting for the Impairment of Long-Lived
+Assets and for Long-Lived Assets to Be Disposed Of".  Recoverability of
+assets to be held and used was measured by the comparison of the carrying
+amount of the assets with expected future cash flows of the assets (assets
+were grouped at the lowest level for which there were identifiable cash
+flows that were largely independent of the cash flows of other groups of
+assets).  As a result of the impairment review, an asset impairment charge
+was recorded.  Approximately $4.0 of the asset impairment charge related to
+the closure of a facility in Puerto Rico and reflected the reduction in the
+carrying value of equipment to its estimated fair market value based on
+selling prices for comparable equipment.  The equipment was sold in the
+first half of 2002.  The remaining charge related to assets (leasehold
+improvements and other assets) that have been abandoned.
+
+     Special termination benefits represent the impact of employee
+terminations on the Company's benefit plans in the U.S. and certain
+international locations.  In accordance with FAS No. 88, "Employers'
+Accounting for Settlements and Curtailment of Defined Benefit Pension Plans
+and for Termination Benefits," the plans experienced a net loss from
+curtailment and special termination benefits of $1.3 and $9.9, respectively.
+The curtailment charge reflected the difference between the liabilities
+assuming all of the participants terminate as of their severance date versus
+the ongoing liability for these participants under FAS No. 87, "Employers
+Accounting for Pensions", at the curtailment date assuming continued active
+employment.  The special termination benefits included a loss resulting from
+an increase in a liability due to additional service and pay earned during
+the severance period, coupled with an additional liability attributable to
+paying benefits at an actual rate versus an assumed rate.
+
+     Contract termination costs primarily represented lease buyout costs
+related to facility closures in North America (including the U.S.) and
+cancellation of a contract with a third-party supplier of warehousing and
+logistical services in the U.S.
+
+
+     Accrued facility rationalization and other costs primarily represented
+incremental costs associated with the facility rationalizations, including
+
+
+<Page>
+
+
+administrative expenses during the shutdown period, employee and union
+communication costs and legal fees.
+
+     While project plans associated with these initiatives have not changed,
+the Company has experienced favorable adjustments to its original cost
+estimates. As a result, in the third quarter 2002, the Company reversed $7.3
+pretax ($5.2 after tax, or $.02 per diluted share) against the Special
+charge line in the Consolidated Statements of Income, where the estimates
+were originally recorded.  The favorable adjustments primarily related to
+certain employees pursuing reassignments in other Avon locations, as well as
+lower severance costs resulting from higher than anticipated lump-sum
+distributions (associates who elect lump-sum distributions do not receive
+benefits during the severance period).
+
+Special Charges - Third Quarter 2002
+
+     On September 30, 2002, the Company authorized a plan related to the
+implementation of its Business Transformation initiatives. In connection
+with these initiatives, in the third quarter of 2002, Avon recorded Special
+charges of $43.6 pretax ($30.4 after tax, or $.12 per diluted share).  These
+charges were primarily associated with the following initiatives:
+*	Supply chain initiatives, including actions to improve efficiencies
+and productivity in manufacturing, logistics, transportation and
+distribution activities;
+*	Workforce reduction programs focused on realigning the organization
+and leveraging regional structures; and
+*	Sales transformation initiatives, including a shift to a more variable
+expense base and changes in the selling structure due to a variety of
+initiatives to contemporize the sales model.
+
+     Approximately 90% of the charge will result in future cash
+expenditures.  Approximately 30% of these cash expenditures were made by
+March 2003, with over 90% of total cash payments to be made by December
+2003.  All payments will be funded by cash flow from operations.
+
+     The third quarter charges (net of the $7.3 adjustment to the 2001
+Special charges as previously disclosed) were included in the Consolidated
+Statements of Income as Special charges ($34.3) and as inventory write-
+downs, which were included in Cost of sales ($2.0).
+
+     The third quarter 2002 Special charges (net of adjustment to the 2001
+charges) affected all business segments as follows:
+
+<TABLE>
+<CAPTION>
+   <S>                <C>      <C>        <C>      <C>      <C>    <C>    <C>
+                                                                         Corporate
+                      North               Latin                          and
+                      America*  U.S.      America    Europe    Pacific   Other      Total
+
+Supply chain         $   3.1   $   3.2   $    .8    $   5.9   $   4.5   $     -   $ 17.5
+Workforce reduction
+  programs               1.6       1.2       3.3        1.6         -       3.9     11.6
+Sales transformation
+  initiatives              -       1.8         -       10.0       2.7         -     14.5
+Total accrued charge     4.7(1)    6.2(2)    4.1(3)    17.5(4)    7.2(5)    3.9(6)  43.6
+Adjustment to 2001
+  special charge        (2.0)     (4.4)        -          -         -       (.9)    (7.3)
+  Net accrued charge $   2.7   $   1.8   $   4.1    $  17.5   $   7.2   $   3.0   $ 36.3
+
+Number of
+  employee terminations  152       179       241        302       119        41    1,034
+
+</TABLE>
+*Excludes amounts related to the U.S.
+
+
+
+<Page>
+
+
+
+(1) The majority of the special charge within the North America segment
+related to the closure of a manufacturing facility in Canada and the
+transition of production to existing facilities in the U.S.
+(2) The special charge within the U.S. segment primarily related to workforce
+reduction programs within the sales and supply chain functions.
+(3) The majority of the special charge within the Latin America segment
+included workforce reduction programs in Argentina, Central America and in
+Venezuela (across numerous functional areas).
+(4) The special charge within Europe primarily related to the restructuring
+of the sales force in certain Western European markets as well as the
+reconfiguration of distribution operations in the region.
+(5) The special charge within the Pacific segment primarily related to supply
+chain initiatives in Japan, Australia and the Philippines.  In addition, the
+special charge included costs associated with the closure of stores and a
+procurement center in Hong Kong and the closure of a store and office in
+Singapore, as well as contract cancellation fees and other costs resulting
+from the shutdown of certain sales branches in Malaysia.
+(6) The Corporate and other special charge was the result of a workforce
+reduction program primarily within the information technology department.
+
+     2002 Special charges (net of adjustment to the 2001 charges) by category
+of expenditures were as follows:
+
+
+
+
+
+<TABLE>
+<CAPTION>
+          <S>                      <C>          <C>         <C>          <C>         <C>
+
+                                 Accrued
+                                 Severance     Cost of    Contract
+                                 and Related   Sales      Termination  Other
+                                 Costs         Charge     Costs        Costs      Total
+
+Supply chain                     $    14.2    $  1.4    $   .1       $  1.8      $  17.5
+Workforce reduction programs          11.0         -         -           .6         11.6
+Sales transformation initiatives       9.7        .6       2.3          1.9         14.5
+
+Total accrued charges                 34.9       2.0       2.4          4.3         43.6
+Adjustment to 2001
+  Special charges                     (5.7)        -         -         (1.6)        (7.3)
+  Net accrued charges            $    29.2    $  2.0    $  2.4      $   2.7      $  36.3
+
+</TABLE>
+
+     Accrued severance and related costs are expenses, both domestic and
+international, associated with supply chain initiatives (primarily North
+America, Europe and the Pacific), workforce reduction programs (all segments
+except the Pacific) and sales transformation initiatives (primarily Europe,
+the Pacific and U.S).  Employee severance costs were accounted for in
+accordance with the Company's existing FAS No. 112 severance plans, or with
+other accounting literature.  Approximately 1,000 employees, or 2.0% of the
+total workforce, will receive severance benefits.  Over 90% of the employee
+severance costs will be paid by December 2003.
+
+     Approximately 45% of the number of employees to be terminated related
+to facility rationalizations and the supply chain function, which primarily
+represents employees within the manufacturing and distribution functions.
+Approximately 20% of the number of employees to be terminated related to the
+sales transformation initiatives, which represent employees within the sales
+function.  The remainder of the employee severance costs is associated with
+workforce reduction programs, which span much of the organization including
+the functional areas of marketing, information technology, human resources,
+research and development and strategic planning.
+
+     The Cost of sales charge for inventory write-downs primarily represents
+losses associated with store and branch closures (primarily Pacific) as well
+as the discontinuation of selected product lines (Europe).
+
+     Contract termination costs primarily represent lease buyout costs
+related to store and branch closures (primarily Pacific) and contract
+cancellation fees with store owners (Pacific).
+
+<Page>
+     Other costs primarily represent administrative expenses associated with
+a facility rationalization, employee and union communication costs, pension
+termination benefits and legal and professional fees (primarily Europe).
+
+Liability Balances for Special Charges
+
+     The liability balances for Special charges at March 31, 2003, were as
+follows:
+
+<TABLE>
+<CAPTION>
+
+    <S>               <C>       <C>       <C>      <C>          <C>         <C>      <C>
+                   Accrued
+                   Severance           Asset
+                   and        Cost of  Impair  Special     Contract
+                   Related    Sales    ment    Termination Termination  Other
+                   Costs      Charge   Charge  Benefits    Costs        Costs Total
+2001 Charges:
+
+Balance at
+ December 31, 2002 $   27.1   $    -   $   -    $     -    $     -   $  2.7   $ 29.8
+Cash expenditure       (3.7)       -       -          -                 (.2)    (3.9)
+                   --------   -------  ------    ------    --------    ------   -----
+Balance at
+ March 31, 2003    $   23.4   $    -   $   -    $     -    $     -   $  2.5   $ 25.9
+
+
+2002 Charges:
+
+Balance at
+ December 31, 2002 $   30.8   $    -   $   -    $     -    $   1.0   $   2.2  $ 34.0
+Cash expenditures      (6.7)       -       -          -          -   $    -     (6.7)
+                   --------   ------   ------   -------    -------   -------  -------Balance at
+ March 31, 2003    $   24.1   $    -   $   -    $     -    $   1.0   $   2.2  $ 27.3
+
+</TABLE>
+     The liability balances and employee terminations by business segment
+were as follows:
+
+<TABLE>
+<CAPTION>
+
+2001 Charges:
+ <S>                       <C>      <C>       <C>       <C>       <C>       <C>     <C>
+                                                                          Corporate
+                         North              Latin                         and
+                         America*   U.S.    America    Europe    Pacific  Other    Total
+
+Total Accrued charges   $ 17.7   $  26.1   $  24.1   $  15.3   $     -  $  14.2   $ 97.4
+Less:  Expenses charged  (14.1)    (16.4)    (10.9)    (11.2)        -    (11.6)   (64.2)
+Less:  Adjustment         (2.0)     (4.4)        -         -         -      (.9)    (7.3)
+Balance at
+   March 31, 2003          1.6(a)$   5.3(b)$  13.2(c)$   4.1(d)$     -  $   1.7(e)$ 25.9
+
+Number of planned employee
+   terminations            362       460     2,007       533         -      125    3,487
+
+Remaining employee
+   terminations at
+   March 31, 2003            -       107     1,146       196         -        -    1,449
+
+</TABLE>
+*Excludes amounts related to the U.S.
+
+(a)   The majority of the remaining liability relates to remaining amounts
+payable to employees already receiving severance as a result of the
+closure of Avon's jewelry manufacturing facility in Puerto Rico.  The
+facility was closed in September 2002, with substantially all remaining
+severance payments to be made in 2003.
+(b)	The majority of the remaining liability relates to employee severance
+costs resulting from the closure of a manufacturing facility in
+Suffern, NY.  Employee terminations began in September 2002 and will
+continue through June 2003, with a majority of the remaining severance
+payments completed in 2003.
+(c)	The majority of the remaining liability relates to employee severance
+costs
+
+
+<Page>
+
+
+relating to a facility rationalization in Mexico.  The facility
+project includes the closure of a manufacturing and distribution
+facility, a construction plan to expand an existing facility and the
+moving of the manufacturing and distribution functions on a staged
+basis to a newly constructed site.  The workforce will be terminated
+over a transition period (700 in 2002, 600 in 2003 and 500 in 2004).
+The distribution facility was closed in October 2002.  All key
+milestones of the project plan are currently in accordance with the
+original plan.
+(d)The majority of the remaining liability relates to a facility
+rationalization in the United Kingdom.  The facility closure was
+announced in 2002; however, severance benefits were not paid
+immediately since employees are being retained during the migration of
+production.  Employee terminations are expected to be completed in the
+second quarter of 2003, in accordance with the plan.
+(e)The remaining liability relates to remaining amounts payable to
+employees already receiving severance.
+
+<TABLE>
+<CAPTION>
+
+2002 Charges:
+<S>                           <C>     <C>    <C>      <C>      <C>      <C>       <C>
+                                                                         Corporate
+                       North               Latin                         and
+                       America*    U.S.    America   Europe    Pacific   Other     Total
+
+Total Accrued Charges $   4.7    $  6.2   $   4.1   $  17.5   $  7.2    $   3.9   $ 43.6
+Less: Expenses Charged   (1.3)     (1.2)     (2.4)     (4.0)    (5.4)      (2.0)   (16.3)
+                       -------    ------   -------   -------   ------    -------   ------
+Balance at
+   March 31, 2003     $   3.4(a) $  5.0(b)$   1.7(c)$  13.5(d)$  1.8(e) $   1.9(f)$ 27.3
+
+Number of planned employee
+   terminations           152       179       241        302       119       41    1,034
+
+Remaining employee
+   terminations at
+   March 31, 2003         128       163       162        232        34        5      724
+
+</TABLE>
+*Excludes amounts related to the U.S.
+
+(a)The majority of the remaining liability relates to employee severance
+costs resulting from the closure of a manufacturing facility in Canada
+and the transition of production to existing facilities in the U.S.
+Employee terminations began in March 2003 and will continue through
+September 2003, with the majority of payments made by December 2003.
+(b)The majority of the remaining liability relates to employee severance
+costs associated with workforce reduction programs within the sales
+and supply chain functions.  Employee terminations began in December
+2002 and will continue through September 2003, with a majority of
+payments made by December 2003.
+(c)The majority of the remaining liability relates to employee severance
+costs associated with workforce reduction programs in Argentina,
+Central America and Venezuela.  Employee terminations began in October
+2002 and will continue through September 2003, with substantially all
+payments made by December 2003.
+(d)The majority of the remaining liability relates to employee severance
+costs.  Employee terminations began in November 2002, with a majority
+of payments made by December 2003.
+(e)The majority of the remaining liability relates to employee severance
+costs related to supply chain initiatives.  Employee terminations
+began in December 2002, with a majority of payments made by March
+2003.  The procurement center in Hong Kong, the store and office in
+Singapore and 15 sales branches in Malaysia were closed in 2002.
+(f)The remaining liability relates to remaining amounts payable to
+employees already receiving severance.
+
+<Page>
+
+
+9.  SEGMENT INFORMATION
+
+    Summarized financial information concerning the Company's reportable
+segments was as follows:
+
+                                           Three Months Ended March 31,
+                                  -------------------------------------------
+                                          2003                    2002
+                                  --------------------    -------------------
+                                     Net     Operating      Net     Operating
+                                    Sales      Profit      Sales      Profit
+                                  --------    --------    --------   --------
+
+North America:
+      U.S.                        $  501.2    $   97.5    $  496.6    $   92.2
+      U.S. Retail*                     1.9       (21.7)        1.8        (7.0)
+      Other**                         65.4         6.6        62.8         9.9
+                                  --------    --------    --------    --------
+      Total                          568.5        82.4       561.2        95.1
+                                  --------    --------    --------    --------
+International:
+      Latin America***               358.9        64.3       389.8        61.9
+      Europe                         326.4        47.3       240.1        31.3
+      Pacific                        211.9        33.9       181.0        22.5
+                                  --------    --------    --------    --------
+      Total International            897.2       145.5       810.9       115.7
+                                  --------    --------    --------    --------
+
+Total from operations             $1,465.7    $  227.9    $1,372.1    $  210.8
+
+Global expenses                          -       (64.3)          -       (58.2)
+                                  --------    --------    --------    --------
+Total                             $1,465.7    $  163.6    $1,372.1    $  152.6
+                                  ========    ========    ========    ========
+
+*Includes U.S. Retail and Avon Centre.  2003 operating profit for U.S.
+Retail includes costs of $18.2 related to severance and asset write-downs
+(see Note 12, Other Information).
+**Includes Canada, Dominican Republic and Puerto Rico.  Beginning January 1,
+2003, the Dominican Republic was included in North America whereas in prior
+periods it had been included in Latin America.  Prior periods have been
+restated to reflect this change.
+***Avon's operations in Mexico reported Net sales for 2003 and 2002 of
+$159.1 and $154.7, respectively, and Operating profit for 2003 and 2002 of
+$38.6 and $30.5, respectively.
+
+     The following table presents consolidated Net sales by classes of
+principal products, for the three months ended March 31:
+
+                                    2003        2002
+                                  --------    --------
+Beauty*                           $  977.2    $  881.1
+Beauty Plus**                        254.4       261.2
+Beyond Beauty***                     178.9       190.3
+Health and Wellness****               55.2        39.5
+                                  --------    --------
+Total net sales                   $1,465.7    $1,372.1
+                                  ========    ========
+
+*Beauty includes cosmetics, fragrance and toiletries.
+**Beauty Plus includes fashion jewelry, watches, apparel and accessories.
+
+<Page>
+***Beyond Beauty includes home products, gift and decorative products, and
+candles.
+****Health and Wellness includes vitamins, aromatherapy products, exercise
+equipment, stress relief and weight management products.
+
+
+10.  Financial Instruments
+
+     In February 2003, Avon entered into a treasury lock agreement with
+a notional amount of $75.0 that expired in May 2003.  On May 9, 2003,
+this treasury lock agreement was settled and Avon recorded a gain of
+$0.1.  This agreement was used to hedge the exposure to a possible rise
+in interest rates prior to the anticipated issuance of debt in 2003.
+Accordingly, the gain was recorded in Accumulated Other Comprehensive
+Income ("OCI") and is expected to be amortized to interest expense over
+the life of the anticipated debt.  If Avon does not issue the
+anticipated debt within a certain time period, the gain recorded in
+Accumulated OCI will be reclassified to interest expense.
+
+
+11.  Supplemental Income Statement Information
+
+     For the three months ended March 31, 2003 and 2002, the components of
+Other expense (income), net were as follows:
+
+                                          2003     2002
+                                       -------  -------
+Foreign exchange losses (gains), net   $   1.1  $  (7.5)
+Amortization of debt issue costs
+   and other financing                     1.7      1.4
+Other                                     (1.0)      .1
+                                       -------  -------
+Other expense (income), net            $   1.8  $  (6.0)
+                                       =======  =======
+
+12.  Other Information
+
+    In January 2003, Avon announced that it had agreed with J.C. Penney to
+end the business relationship pursuant to which Avon's beComing line of
+products has been carried in approximately 90 J.C. Penney stores.  The
+beComing brand will be sold through Avon's direct selling channel in the
+U.S., exclusively by Avon Beauty Advisors, who are independent Avon sales
+Representatives with specialized beauty product training and consultative
+selling skills.  For the three months ended March 31, 2003, costs associated
+with ending this business relationship were $18.2, including severance costs
+($3.5), asset and inventory write-downs ($12.1) and other related expenses
+($2.6).  These costs were included in the Consolidated Statements of Income
+in Marketing, distribution and administrative expenses ($10.4) and in Cost
+of sales ($7.8).
+
+
+13.  Debt
+
+     On February 25, 2003, the Company filed a Registration Statement on
+Form S-3 with the U.S. Securities and Exchange Commission ("SEC") to
+register the issuance by the Company from time to time of $1,000.0 of
+debt securities.  The registration statement was declared effective by
+the SEC on March 21, 2003. (See Note 14, Subsequent Events).
+
+<Page>
+
+
+14.  Subsequent Events
+
+     On May 1, 2003, Avon declared a quarterly dividend on its common stock
+of $.21 per share, payable June 2, 2003, to shareholders of record on May
+16, 2003.
+
+     In April 2003, the callholder exercised the call option associated with
+the $100.0 of 6.25% putable/callable notes previously scheduled to mature in
+2018.  Pursuant to an agreement with the callholder, Avon modified the
+putable/callable notes into $125.0 aggregate principal amount of 4.625%
+notes due May 15, 2013, such modified principal amount representing the
+value of the putable/callable notes and their related call option, plus
+approximately $4.0 principal amount of additional notes issued for cash.
+On May 13, 2003, $125.0 of 4.625% registered notes were issued in exchange
+for the modified notes held by the callholder.  The $125.0 of notes were issued
+under the Company's $1,000.0 shelf registration (See Note 13, Debt).
+
+     On May 1, 2003, the Company entered into a 10-year interest rate swap
+agreement (subject to an option to terminate the swap at the end of 7 years)
+with a notional amount totaling $125.0 to effectively convert fixed interest
+on the $125.0 of bonds to variable interest rates, based on LIBOR.
+
+     On May 9, 2003, a treasury lock agreement, which Avon had entered into
+in December 2002, with a notional amount of $100.0 was settled and Avon
+recorded a loss of $2.8. This agreement was used to hedge the exposure to a
+possible rise in interest rates prior to the anticipated issuance of debt in
+2003. Accordingly, the loss was recorded in Accumulated OCI and is expected
+to be amortized to interest expense over the life of the anticipated debt.
+If Avon does not issue the anticipated debt within a certain time period,
+the loss recorded in Accumulated OCI will be reclassified to interest
+expense.
+
+
+<Page>
+
+ITEM 2.  Management's Discussion and Analysis of Financial Condition
+and Results of Operations
+
+RESULTS OF OPERATIONS--THREE MONTHS ENDED MARCH 31, 2003 AND 2002.
+
+Consolidated
+                                                           Favorable
+                                                         (Unfavorable)
+                                                           %/Point
+                                      2003        2002      Change
+                                    --------   --------   --------
+Net sales                          $1,465.7   $1,372.1          7%
+Total revenue                       1,481.4    1,383.6          7
+Cost of sales                         574.2      540.9         (6)
+Marketing, distribution and
+   administrative expenses            743.6      690.1         (8)
+Operating profit                      163.6      152.6          7
+Interest expense                        9.9       13.4         26
+Interest income                        (2.5)      (4.3)       (42)
+Other (income) expense, net             1.8       (6.0)         -
+Net income                             98.9       96.3          3
+Diluted earnings per share              .42        .40          5
+
+Gross margin                           61.2%      60.9%        .3
+Operating expense ratio                50.2%      49.9%       (.3)
+Operating margin                       11.0%      11.0%         -
+Effective tax rate                     35.0%      34.8%       (.2)
+
+Units                                                          10%
+Active Representatives                                         13%
+
+
+Net Sales
+
+     Net sales growth in 2003 was driven by an increase in units and the
+number of active Representatives, with dollar increases in all regions
+except Latin America, which was negatively impacted by weaker foreign
+exchange rates.  Excluding the impact of foreign currency exchange,
+consolidated Net sales increased 12%, with increases in all regions.
+
+     The 2003 Net sales increase was also driven by an 11% increase in
+Beauty sales (driven by strong increases in fragrance, skin care, personal
+care and color categories) and, to a lesser extent, a 40% increase in Health
+and Wellness sales, partially offset by declines in Beyond Beauty of 6% and
+Beauty Plus of 3% (driven by declines in accessories and watches).
+
+Gross Margin
+
+     Gross margin improved in 2003 due to increases in the Pacific (1.7
+points, which increased consolidated gross margin by .2 point) and Latin
+America (.5 point, which increased consolidated gross margin by .1 point),
+partially offset by decreases in Europe (.6 point, which reduced
+consolidated gross margin by .1 point) and North America (.1 point, which
+reduced consolidated gross margin by .1 point). Additionally, gross margin
+benefited from greater contributions from countries with higher gross
+margins (which increased consolidated gross margin by .2 point).
+
+     The gross margin improvements discussed above include incremental net
+savings across all geographic segments associated with supply chain Business
+Transformation initiatives, which favorably impacted consolidated gross
+margin by .7 point.  Gross margin in 2003 also included $7.8 of inventory
+write-downs related to the repositioning of the beComing line of products,
+
+<Page>
+which decreased consolidated gross margin by .5 point (see Note 12, Other
+Information).
+
+     See the "Segment Review" sections of Management's Discussion and
+Analysis of Financial Condition and Results of Operations for additional
+information related to changes in gross margin by segment.
+
+Marketing, Distribution and Administrative Expenses
+
+     Marketing, distribution and administrative expenses increased $53.5 in
+2003 primarily due to a 7% sales increase (which resulted in an increase in
+expenses of approximately $31.0), an increase in consumer and strategic
+investments of $10.0 (including brochure enhancements, advertising and Sales
+Leadership), costs of $10.4 (severance and asset write-downs) associated
+with the repositioning of the beComing line of products (see Note 12, Other
+information), an increase in U.S. pension expense of $4.7 and merit salary
+increases of $3.7 for certain marketing, distribution and administrative
+personnel around the world.    These increases in expenses were partially
+offset by incremental net savings from workforce reduction programs
+associated with Avon's Business Transformation initiatives of $13.0.
+
+     As a percentage of Total revenue, Marketing, distribution and
+administrative expenses increased .3 point in 2003 due to a higher expense
+ratio in North America (2.4 points, which increased the consolidated ratio
+by 1.0 point), partially offset by lower expense ratios in Europe (2.0
+points, which reduced the consolidated ratio by .4 point), Latin America
+(1.5 points, which reduced the consolidated ratio by .4 point) and the
+Pacific (1.8 points, which reduced the consolidated ratio by .3 point).
+Additionally, the consolidated expense ratio was negatively impacted by
+greater contributions from markets with higher expense ratios (which
+increased the consolidated ratio by .4 point).
+
+     See the "Segment Review" sections of Management's Discussion and
+Analysis of Financial Condition and Results of Operations for additional
+information related to changes in expense ratios by segment.
+
+Other Expense (Income)
+
+     Interest expense decreased in 2003 primarily as a result of continued
+declines in domestic interest rates.
+
+     Interest income decreased in 2003 primarily due to lower Cash and cash
+equivalent balances.
+
+     Other expense (income), net was unfavorable in 2003 as compared to 2002
+by $7.8 primarily due to unfavorable foreign exchange of $8.6.  The foreign
+exchange variance was primarily comprised of net foreign exchange losses of
+$.3 as compared to gains of $11.3 in 2002 on net U.S. dollar denominated
+assets primarily in Mexico, Argentina, Brazil, and Venezuela, partially
+offset by gains of $3.5 in 2003 on Argentine peso and Mexican peso foreign
+exchange contracts.
+
+     Avon anticipates that the overall foreign exchange variance will
+continue to be unfavorable in the second quarter of 2003 versus the same
+period in 2002, reflecting significant foreign exchange losses in 2003 as
+compared to foreign exchange gains in 2002.
+
+Effective Tax Rate
+
+     The effective tax rate was higher in 2003 due to changes in the
+earnings mix and tax rates of international subsidiaries.
+
+<Page>
+Segment Review
+
+North America
+                                            %/Point
+                         2003      2002     Change
+                        ------    ------    ------
+Net sales              $568.5     $561.2       1 %
+Operating profit         82.4       95.1     (13)%
+Operating margin         14.3%      16.7%   (2.4)
+
+Units                                          5%
+Active Representatives                         4%
+
+     Net sales increased due to growth in units and the number of active
+Representatives.  The U.S. business, which represents approximately 90% of
+the North American segment, reported a sales increase of 1% resulting from
+an increase in units, and the number of active Representatives due to
+continued growth of the Sales Leadership program, partially offset by a
+temporary disruption to the business caused by severe snow storms and the
+impact of the war in Iraq on consumer spending.
+
+     On a category basis, the 2003 sales increase in the U.S. was  driven by
+an 8% increase in Beauty Sales (driven by increases in the color, skin care
+and personal care categories) and a 29% increase in Health and Wellness
+sales (driven by new product introductions), largely offset by a 16% decline
+in Beyond Beauty and a 5% decline in Beauty Plus.
+
+     The decrease in operating margin in North America was most
+significantly impacted by the following markets:
+*	Operating margin for the U.S. Retail business declined significantly
+(which decreased segment margin by 3.5 points) resulting from costs of
+$18.2 associated with the repositioning of the beComing line of products
+(see Note 12, Other Information).
+*	Operating margin in the U.S. improved (which increased segment margin by
+.7 point) primarily due to the sales increase discussed above, and gross
+margin expansion, mainly due to a favorable mix of products sold, price
+increases in the Beauty category, and supply chain savings resulting from
+sourcing initiatives associated with Business Transformation.   The
+improvement in gross margin was partially offset by an unfavorable
+expense ratio due to higher transportation expenses, incremental spending
+on advertising and sampling, and higher pension-related costs, partially
+offset by incremental supply chain savings associated with Business
+Transformation initiatives.  Pension expense for full year 2003 related
+to the U.S. plan is expected to increase in the range of $20.0 to $25.0
+primarily due to negative investment returns in 2001 and 2002.
+
+
+
+
+Europe
+                                              %/Point Change
+                                            ------------------
+                                                         Local
+                          2003      2002       US$    Currency
+                        ------    ------    ------    --------
+Net sales               $326.4    $240.1      36%       22%
+Operating profit          47.3      31.3      51%       43%
+Operating margin          14.4%     13.0%     1.4      1.4
+
+Units                                                   26%
+Active Representatives                                  21%
+
+     Net sales increased in U.S. dollars and local currencies driven by
+substantial growth in units and the number of active Representatives with
+the following markets having the most significant impact:
+
+*	In the markets of Central and Eastern Europe, Net sales in U.S. dollars
+and local currencies grew significantly, primarily in Russia and Poland.
+In Russia, local currency sales grew more than 60% due to significant
+growth in active Representatives resulting from expansion into new
+territories and improved access to products through additional sales
+centers, as well as an improvement in Russia's economic environment.  In
+Poland, local currency sales grew primarily due to an increase in active
+Representatives.
+*	In Western Europe, Net sales in U.S. dollars and local currencies
+increased mainly due to an increase in the United Kingdom resulting from
+growth in active Representatives, successful new product launches and
+additional sales incentive offers such as gift-with-purchase programs.
+Sales growth was also driven, to a lesser extent, by increases in Italy
+and Spain.
+
+     The increase in operating margin in Europe was most significantly
+impacted by the following markets:
+
+*	In Central and Eastern Europe, operating margin improved (which increased
+segment margin by .9 point) primarily due to an improvement in Russia's
+expense ratio resulting from significant sales growth and general cost
+containment initiatives, partially offset by incremental consumer and
+strategic investments, such as advertising.  In Russia, the lower expense
+ratio was partially offset by a lower gross margin due to strategic
+pricing investments and other consumer motivation programs.
+*	In Western Europe, operating margin was flat (which increased segment
+margin by less than .1 point) primarily due to a lower expense ratio
+offset by a decline in gross margin.  The lower expense ratio resulted
+from the sales increases discussed above and savings associated with
+Business Transformation initiatives.  The lower gross margin was driven
+by a decline in gross margin in the United Kingdom primarily due to an
+increase in sales incentive offers such as gift-with-purchase programs,
+partially offset by a favorable mix of products sold.
+
+     Operating margin also improved due to greater contributions from
+countries with higher operating margins (which increased segment margin by
+.8 point).
+
+
+<Page>
+
+Latin America
+                                             %/Point Change
+                                             -----------------
+                                                         Local
+                         2003      2002        US $   Currency
+                        -----     -----      ------   --------
+Net sales              $358.9    $389.8       (8)%       21%
+Operating profit         64.3      61.9        4 %       32%
+Operating margin         17.9%     15.9%      2.0       2.0
+
+Units                                                     7%
+Active Representatives                                   13%
+
+     Net sales in U.S. dollars were significantly impacted by weaker foreign
+exchange rates in all major markets.  Excluding the impact of foreign
+currency exchange, Net sales increased in 2003 with increases in all major
+markets in the region, reflecting growth in units and active
+Representatives.
+*	In Mexico, Net sales increased in U.S. dollars and local currency,
+benefiting from new product launches and growth in active
+Representatives.
+*	In Brazil, Net sales in U.S. dollars decreased significantly due to the
+negative impact of foreign exchange, but increased in local currency,
+primarily from an increase in the number of active Representatives.
+*	In Venezuela, Net sales in U.S. dollars decreased significantly due to
+the negative impact of foreign exchange, but increased in local currency,
+primarily due to new product launches and competitive price discounting,
+partially offset by external factors such as the national strike that
+lasted until February and the gas scarcity that adversely impacted Avon
+Venezuela's ability to ship product to its Representatives.
+*	In Argentina, Net sales in U.S. dollars decreased due to the negative
+impact of foreign exchange, but increased significantly in local
+currency, primarily driven by growth in active Representatives.
+
+     The increase in operating margin in Latin America was most
+significantly impacted by the following markets:
+
+*	In Mexico, operating margin increased (which increased segment margin by
+2.0 points) primarily due to an improvement in the expense ratio mainly
+due to a reduction in salaries and benefits resulting from the transition
+to a new distribution center in Celaya, partially offset by an increase
+in consumer and strategic investments.  Additionally, 2002 included
+accelerated depreciation expense associated with the closure of a
+distribution facility in Mexico City.
+*	In Argentina, operating margin increased (which increased segment margin
+by .5 point) primarily due to improvement in the expense ratio driven by
+a significant increase in local currency sales and general cost
+containment initiatives, partially offset by higher investments in
+promotion and sampling, and an increase in the cost of imported paper due
+to the devaluation of the peso.  Additionally, gross margin improved due
+to price increases.
+*	In Venezuela, operating margin decreased (which decreased segment margin
+by .8 point) primarily due to an increase in the expense ratio resulting
+from higher field and distribution expenses due to the impact of the
+national strike on Avon's ability to ship orders, incremental consumer
+and strategic investments such as spending on the brochure and higher
+bonus accruals resulting from a new bonus recognition program.  Operating
+margin was also impacted by a decline in gross margin resulting from an
+
+<Page>
+increase in the cost of raw materials and finished goods due to weaker
+currency, as well as import and supply chain disruptions resulting from
+the national strike.
+
+     Operating margin was favorably impacted by greater contributions from
+countries with higher operating margins (which increased segment margin by
+.8 point).
+
+     The Venezuelan anti-government protests, which began during the fourth
+quarter of 2002, continued to disrupt the economy in the early months of
+2003. These protests virtually shut down the country's oil exports, the
+primary source of the country's foreign exchange reserves. In response to
+the disruption of oil exports and the resulting drop in foreign exchange
+reserves, the government implemented exchange controls in February 2003 and
+the bolivar rate was fixed at a rate of 1,598 bolivars per U.S. dollar.
+Although the level of protest has diminished and oil production and the
+resulting export revenue has increased, economic growth continues to be
+hampered by the lack of foreign exchange.   Continuation of the political
+unrest has impacted Avon's ability to conduct normal business operations as
+well as to obtain foreign currency to pay for imported products.   Without a
+resolution to the political and economic issues, Avon Venezuela's results of
+operations in U.S. dollars are expected to be negatively impacted in 2003.
+
+     During 2002, the Brazilian real weakened as investor sentiment turned
+bearish prior to the November presidential election, which was won by the
+Worker's Party candidate. In the new government's early days, it has
+instituted monetary and fiscal policies and initiated structural reforms in
+social security and tax administration.  These actions have created a better
+investor climate and restored confidence in Brazil's ability to service its
+heavy debt burden.  As a result, since early 2003, the Brazilian real has
+strengthened significantly.  Should this strengthening trend continue,
+results from Avon's Brazilian operations are expected to be positively
+impacted in 2003.
+
+<Page>
+
+
+Pacific
+                                             %/Point Change
+                                            -----------------
+                                                        Local
+                          2003      2002       US$   Currency
+                        ------    ------    ------   --------
+Net sales               $211.9    $181.0      17%        12%
+Operating profit          33.9      22.5      51%        46%
+Operating margin          15.7%     12.2%     3.5       3.5
+
+Units                                                     8%
+Active Representatives                                   12%
+
+     Net sales in U.S. dollars and local currency increased as a result of
+growth in all major markets in the region, driven primarily by increases in
+units and active Representatives.
+*	In China, Net sales in U.S. dollars and local currency increased
+primarily due to a continued increase in the number of company-owned
+beauty boutiques.
+*	In Japan, Net sales in U.S dollars and local currency increased mainly
+due to an increase in active Representatives and an increase in the
+number of direct mailings to customers.
+*	In the Philippines, Net sales increased in U.S. dollars and local
+currency due to an increase in active Representatives, successful new
+product launches and Representative sales incentive programs.
+
+     The increase in operating margin in the Pacific was most significantly
+impacted by the following markets:
+
+*	In Japan, operating margin improved (which increased segment margin by
+1.7 points) resulting primarily from a lower expense ratio due to an
+increase in sales, and lower delivery costs resulting from the
+consolidation of carriers.  Gross margin also improved due to the launch
+of products with higher margins and supply chain savings associated with
+Business Transformation initiatives.
+*	In the Philippines, operating margin improved (which increased segment
+margin by 1.4 points) due to a lower expense ratio resulting from an
+increase in sales and a decrease in the bad debt provision.
+*	In Australia, operating margin improved (which increased segment margin
+by .5 point) primarily due to a lower expense ratio resulting from an
+increase in sales, and an improvement in gross margin due to lower
+obsolescence expense.
+*	In China, operating margin improved (which increased segment margin by .5
+point) primarily due to a lower expense ratio resulting from operating
+expense leverage as this market achieves scale, as well as general cost
+containment initiatives, partially offset by incremental advertising
+spending.
+
+    In the first quarter of 2003, the Company experienced no impact from the
+outbreak of severe acute respiratory syndrome ("SARS") in China and Hong
+Kong.  The disruption in normal business patterns resulting from SARS is
+likely to impact the Company's Chinese business and may impact its Asian-
+based supply chain in the second quarter and perhaps beyond, although it is
+not clear what the scale of that impact might be.
+
+<Page>
+Global Expenses
+
+     Global expenses increased $6.1 in 2003 primarily due to higher bonus
+accruals of $1.7, higher professional service fees of $1.7, incremental
+investments of $1.2 for global marketing, research and development and a new
+product line called "mark." (which is due to launch in late 2003), merit
+salary increases of $1.1, higher pension expense of $1.1 and charitable
+contributions of $1.1.  These increases were partially offset by incremental
+net savings of approximately $1.6 from workforce reductions associated with
+Avon's Business Transformation initiatives.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     Avon's principal sources of funds are cash flows from operations,
+commercial paper, borrowings under uncommitted lines of credit and long-term
+borrowings.
+
+Cash Flows
+
+     Net cash used in operating activities was $22.4 favorable to 2002
+principally reflecting higher net income (adjusted for non-cash items), a
+tax payment of $20.0 in 2002 deferred from 2001 and favorable working
+capital (primarily accounts receivable), partially offset by a contribution
+of $40.0 to the U.S. pension plan, inventory investments, and higher cash
+outlays in 2003 for severance and bonus payments.
+
+     Excluding changes in debt, Cash and cash equivalents decreased $150.4
+in the first quarter of 2003, compared to a decrease of $151.9 in first
+quarter of 2002.  The lower use of cash in 2003 resulted primarily from
+lower cash used in operating activities, discussed above, and lower
+repurchases of common stock, partially offset by a decrease in cash received
+from the exercise of stock options and sales of investments, as well as
+higher capital expenditures.  Avon purchased approximately 996,000 shares of
+Avon common stock for $52.1 during the first quarter of 2003, compared with
+$57.4 spent for the repurchase of approximately 1,100,000 shares during the
+first quarter of 2002.  At March 31, 2002, 51,867 shares repurchased for
+$2.9 were not settled until April 2002.
+
+     In the second quarter of 2003, the Company will be making a planned tax
+payment of $53.0.  In April 2003, Avon also made a cash contribution
+to its U.S. qualified pension plan of $20.0.  Depending on the performance
+of Avon's investments, Avon may make additional contributions to its U.S.
+qualified pension plan during the remainder of 2003.  In addition, in May
+2003, Avon purchased the outstanding 50% of shares in its Turkish joint
+venture business, Eczacibasi Avon Kozmetik (EAK) from its partner,
+Eczacibasi Group, for $18.0.
+
+
+Capital Resources
+
+     Total debt at March 31, 2003, decreased $.5 to $1,371.7 from $1,372.2
+at December 31, 2002, principally due to an adjustment to reflect the fair
+value of outstanding interest rate swaps and amortization of gains on
+terminated swap agreements, partially offset by amortization of the discount
+on Avon's outstanding convertible notes.  Total debt at March 31, 2003,
+increased $58.1 from $1,313.6 at March 31, 2002, primarily due to
+adjustments to reflect the fair value of outstanding interest rate swaps,
+amortization of the discount on Avon's outstanding convertible notes and
+translation of Avon's Japanese yen denominated notes payable.
+
+     At March 31, 2003, there were no borrowings under a $600.0 revolving
+credit and competitive advance facility (the "credit facility").  This
+
+<Page>
+
+
+
+
+credit facility is also used to support Avon's commercial paper facility,
+under which no amounts were outstanding at March 31, 2003.
+
+     At March 31, 2003, there were no amounts outstanding under uncommitted
+lines of credit.
+
+     Management currently believes that cash from operations and available
+financing alternatives are adequate to meet anticipated requirements for
+working capital, dividends, capital expenditures, the stock repurchase
+program and other cash needs.
+
+     In April 2003, the callholder exercised the call option associated with
+the $100.0 of 6.25% putable/callable notes previously scheduled to mature in
+2018.  Pursuant to an agreement with the callholder, Avon modified the
+putable/callable notes into $125.0 aggregate principal amount of 4.625%
+notes due May 15, 2013, such modified principal amount representing the
+value of the putable/callable notes and their related call option, plus
+approximately $4.0 principal amount of additional notes issued for cash.
+On May 13, 2003, $125.0 of 4.625% registered notes were issued in exchange
+for the modified notes held by the callholder.  The $125.0 of notes were
+issued under the Company's $1,000.0 shelf registration
+(See Note 13, Debt).
+
+     On May 1, 2003, the Company entered into a 10-year interest rate swap
+agreement (subject to an option to terminate the swap at the end of 7 years)
+with a notional amount totaling $125.0 to effectively convert fixed interest
+on the $125.0 of bonds to variable interest rates, based on LIBOR.
+
+
+Financial Instruments and Risk Management Strategies
+
+Interest Rate Risk
+
+     In February 2003, Avon entered into a treasury lock agreement with
+a notional amount of $75.0 that expired in May 2003.  On May 9, 2003,
+this treasury lock agreement was settled and Avon recorded a gain of
+$0.1.  This agreement was used to hedge the exposure to a possible rise
+in interest rates prior to the anticipated issuance of debt in 2003.
+Accordingly, the gain was recorded in Accumulated Other Comprehensive
+Income ("OCI") and is expected to be amortized to interest expense over
+the life of the anticipated debt.  If Avon does not issue the
+anticipated debt within a certain time period, the gain recorded in
+Accumulated OCI will be reclassified to interest expense.
+
+     On May 9, 2003, a treasury lock agreement, which Avon had entered into
+in December 2002, with a notional amount of $100.0 was settled and Avon
+recorded a loss of $2.8. This agreement was used to hedge the exposure to a
+possible rise in interest rates prior to the anticipated issuance of debt in
+2003.  Accordingly, the loss was recorded in Accumulated OCI and is expected
+to be amortized to interest expense over the life of the anticipated debt.
+If Avon does not issue the anticipated debt within a certain time period,
+the loss recorded in Accumulated OCI will be reclassified to interest
+expense.
+
+Foreign Currency Risk
+
+     At March 31, 2003, Avon held foreign currency forward and option
+contracts to buy and sell foreign currencies, including cross-currency
+contracts to sell one foreign currency for another, with notional amounts in
+U.S. dollars as follows:
+
+                         Buy               Sell
+                        ------            ------
+Argentine peso         $  8.0             $    -
+Australian dollar         6.4                5.9
+Brazilian real            4.5               28.0
+British pound             6.9               56.6
+Canadian dollar           4.9               38.1
+Czech koruna                -               21.3
+Euro                     89.3               10.2
+Hungarian forint            -               16.4
+Japanese yen             16.8               13.9
+Mexican peso                -               47.8
+Polish zloty             49.8                6.3
+Other currencies            -               13.5
+                        ------            ------
+     Total             $186.6             $258.0
+                       ======             ======
+
+     At March 31, 2003, certain Avon subsidiaries held U.S. dollar
+denominated assets, primarily to minimize foreign-currency risk and provide
+liquidity.  These subsidiaries included Mexico ($23.2), Argentina ($12.5)
+and Brazil ($7.6).
+
+<Page>
+
+Special Charges
+
+Business Transformation
+
+     In May 2001, Avon announced its new Business Transformation plans,
+which are designed to significantly reduce costs and expand profit margins,
+while continuing to focus on consumer growth strategies.  Business
+Transformation initiatives include an end-to-end evaluation of business
+processes in key operating areas, with target completion dates through 2004.
+Specifically, the initiatives focus on simplifying Avon's marketing
+processes, taking advantage of supply chain opportunities, strengthening
+Avon's sales model through the Sales Leadership program and the Internet,
+streamlining the Company's organizational structure and integrating certain
+similar activities across markets to achieve efficiencies.  Avon anticipates
+significant benefits from these Business Transformation initiatives, but the
+scope and complexity of these initiatives necessarily involve planning and
+execution risk.
+
+     It is expected that the savings from these initiatives will provide
+additional financial flexibility to achieve profit targets, while enabling
+further investment in consumer growth strategies.  Management believes that
+initiatives associated with the 2001 and 2002 Special charges discussed
+below will help the Company achieve its target of a significant expansion of
+its operating margin by the end of 2004.
+
+Special Charges - Fourth Quarter 2001
+
+     In the fourth quarter of 2001, Avon recorded Special charges of $97.4
+pretax ($68.3 after tax, or $.28 per diluted share) primarily associated
+with facility rationalizations and workforce reduction programs related to
+implementation of certain Business Transformation initiatives.  The charges
+of $97.4 were included in the Consolidated Statements of Income for 2001 as
+Special charges ($94.9) and as inventory write-downs, which were included in
+Cost of sales ($2.5).  Approximately 80% of the charges relate to future
+cash expenditures.  Approximately 60% of these cash expenditures were made
+by March 2003, with approximately 90% of total cash payments to be made by
+December 2003.  All payments are funded by cash flow from operations. In the
+third quarter of 2002, Avon recorded an adjustment related to the fourth
+quarter 2001 charge. See Special Charges - Third Quarter 2002 below.
+
+     In 2002, actions associated with the 2001 Special charges yielded net
+savings of approximately $30.0 (gross savings of $50.0 partially offset by
+transitional costs of $20.0).  Cost savings from these initiatives should
+continue, with net savings in 2003 expected to be approximately $65.0 (net
+of additional transitional costs of approximately $10.0) and net savings in
+2004 expected to be approximately $85.0 (net of additional transitional
+costs of approximately $2.0).
+
+     The actions associated with the 2001 Special charges resulted in
+incremental cash outlays of $10.0 in 2002 and are expected to produce
+incremental cash flow of $40.0 in 2003.  Capital expenditures associated
+with the 2001 Special charges were $20.0 in 2002 and are expected to be
+$15.0 in 2003.  These cash outlays in 2002, and capital expenditures in 2002
+and 2003 are funded through cash flow from operations.
+
+Special Charges - Third Quarter 2002
+
+     Special charges of $43.6 pretax ($30.4 after tax or $.12 per diluted
+share), recorded in the third quarter of 2002 primarily related to Avon's
+
+<Page>
+Business Transformation initiatives, including supply chain initiatives,
+workforce reduction programs and sales transformation initiatives.
+Approximately 90% of the charges relate to future cash expenditures.
+Approximately 30% of these expenditures were made by March 2003, with over
+90% of the total cash payments to be made by December 2003.  Avon also
+recorded a benefit of $7.3 pretax ($5.2 after tax, or $.02 per diluted
+share) from an adjustment to the Special charges recorded in the fourth
+quarter of 2001.  The net effect of the special items was a charge of $36.3
+pretax ($25.2 after tax, or $.10 per diluted share).   The $36.3 was
+included in the Consolidated Statements of Income for 2002 as a Special
+charge ($34.3) and as inventory write-downs, which were included in Cost of
+sales ($2.0).
+
+     In 2003, Avon expects actions associated with the 2002 Special charges
+to yield net savings of $15.0 (gross savings of $30.0 partially offset by
+transitional costs of $15.0). Cost savings from these initiatives should
+increase thereafter, with net savings in 2004 expected to be approximately
+$40.0 to $50.0, net of additional transitional costs of approximately $8.0.
+
+     The actions associated with the 2002 Special charges are also expected
+to  produce incremental cash flow from operations of $5.0 in 2003 and $20.0
+to $30.0 in 2004.  Capital expenditures associated with Business
+Transformation initiatives included in the 2002 Special charges are expected
+to be approximately $5.0 through 2003 and are funded through cash flow from
+operations.
+
+
+Accounting Changes
+
+     See Note 1, Accounting Policies, for a discussion regarding the
+adoption of Financial Accounting Standards Board Interpretation No. 46,
+"Consolidation of Variable Interest Entities".
+
+
+Website Access to Reports
+
+     Our annual report on Form 10-K, quarterly reports on Form 10-Q, current
+reports on Form 8-K, and amendments to those reports are available, without
+charge, on our website, www.avoninvestor.com, as soon as reasonably
+practicable after they are filed electronically with the SEC. Copies are
+also available, without charge, from Investor Relations, Avon Products,
+Inc., 1345 Avenue of the Americas, New York, NY 10105-0196 or by sending an
+email to investor.relations@avon.com or by calling (212) 282-5623.
+
+
+CAUTIONARY STATEMENT FOR PURPOSES OF THE "SAFE HARBOR" STATEMENT UNDER THE
+PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+
+     Certain statements in this report which are not historical facts or
+information are forward-looking statements within the meaning of the Private
+Securities Litigation Reform Act of 1995.  Such forward-looking statements
+are based on management's reasonable current assumptions and expectations.
+Such forward-looking statements involve risks, uncertainties and other
+factors, which may cause the actual results, levels of activity, performance
+or achievement of the Company to be materially different from any future
+results expressed or implied by such forward-looking statements, and there
+can be no assurance that actual results will not differ materially from
+management's expectations.  Such factors include, among others, the
+following:  general economic and business conditions in the Company's
+markets, including economic and political uncertainties in Latin America;
+the possible impact of SARS-related concerns on the Company's Asia-Pacific
+
+<Page>
+business and its Asia-based supply chain; the Company's ability to implement
+its business strategy and its Business Transformation initiatives, including
+the integration of similar activities across markets to achieve
+efficiencies; the Company's ability to achieve anticipated cost savings and
+its profitability and growth targets; the impact of substantial currency
+fluctuations in the Company's principal foreign markets and the success of
+the Company's foreign currency hedging and risk management strategies; the
+impact of possible pension funding obligations and increased pension expense
+on the Company's cash flow and results of operations; the effect of legal
+and regulatory proceedings, as well as restrictions imposed on the Company,
+its operations or its Representatives by foreign governments; the Company's
+ability to successfully identify new business opportunities; the Company's
+access to financing; and the Company's ability to attract and retain key
+executives.  Additional information identifying such factors is contained in
+the Company's Annual Report on Form 10-K for the year ended December 31, 2002,
+filed with the SEC.  The Company undertakes no obligation to update any such
+forward-looking statements.
+
+
+ITEM 3.  Quantitative and Qualitative Disclosures about Market Risk
+
+     There have been no material changes in market risk from the information
+provided in Item 7A, Quantitative and Qualitative Disclosures About Market
+Risk, of the Company's 2002 Form 10-K.
+
+
+
+ITEM 4.  Controls and Procedures
+
+Evaluation of Disclosure Controls and Procedures
+
+     Within the 90-day period prior to the filing date of this report, the
+Company's Chief Executive Officer and Chief Financial Officer carried out an
+evaluation of the effectiveness of the design and operation of the Company's
+disclosure controls and procedures pursuant to Rule 13a-14 of the Securities
+Exchange Act of 1934 (the "Exchange Act"). Based upon their evaluation, the
+Chief Executive Officer and Chief Financial Officer concluded that the
+Company's disclosure controls and procedures were adequate and effective and
+designed to ensure that material information relating to the Company
+(including its consolidated subsidiaries) required to be disclosed by the
+Company in the reports it files under the Exchange Act is recorded,
+processed, summarized and reported within the required time periods.
+
+Changes in Internal Controls
+
+     There were no significant changes in the Company's internal controls or
+in other factors that could significantly affect these controls subsequent
+to the date of the evaluation referred to above.
+
+<Page>
+
+AVON PRODUCTS, INC.
+
+                        PART II. OTHER INFORMATION
+
+
+Item 1.  Legal Proceedings
+
+See Note 6, Contingencies.
+
+
+Item 6.  Exhibits and Reports on Form 8-K.
+(a)  Exhibits
+
+     99.1 Certification Pursuant to 18 U.S.C. Section 1350, As Adopted
+Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+     99.2 Certification Pursuant to 18 U.S.C. Section 1350, As Adopted
+Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+(b)  Reports on Form 8-K.
+
+     On January 31, 2003, the Company filed a Form 8-K announcing the
+following:
+*	The termination of the business relationship with J.C. Penney pursuant
+to which the Company's beComing line of products had been carried in
+J.C. Penney stores.
+*	Tax assessments pertaining to the Company's subsidiaries in Poland and
+Brazil.
+
+
+<Page>
+
+
+                                SIGNATURES
+
+
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+
+
+
+                                      AVON PRODUCTS, INC.
+                                      -------------------
+                                         (Registrant)
+
+
+Date:  May 13, 2003                /s/  JANICE MAROLDA
+                                  ----------------------------
+                                  Janice Marolda
+                                  Vice President,
+                                  Controller
+                                  Principal Accounting Officer
+
+                                  Signed both on behalf of the
+                                  registrant and as principal
+                                  accounting officer.
+
+<Page>
+
+CERTIFICATION
+I, Andrea Jung, certify that:
+1. I have reviewed this quarterly report on Form 10-Q of Avon Products,
+Inc.;
+2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by
+this quarterly report;
+3. Based on my knowledge, the financial statements, and other financial
+information included in this quarterly report, fairly present in all
+material respects the financial condition, results of operations and cash
+flows of the registrant as of, and for, the periods presented in this
+quarterly report;
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+a) designed such disclosure controls and procedures to ensure that material
+information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this quarterly report is being
+prepared;
+b) evaluated the effectiveness of the registrant's disclosure controls and
+procedures as of a date within 90 days prior to the filing date of this
+quarterly report (the "Evaluation Date"); and
+c) presented in this quarterly report our conclusions about the
+effectiveness of the disclosure controls and procedures based on our
+evaluation as of the Evaluation Date;
+5. The registrant's other certifying officers and I have disclosed, based on
+our most recent evaluation, to the registrant's auditors and the audit
+committee of registrant's board of directors (or persons performing the
+equivalent function):
+a) all significant deficiencies in the design or operation of internal
+controls which could adversely affect the registrant's ability to record,
+process, summarize and report financial data and have identified for the
+registrant's auditors any material weaknesses in internal controls; and
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls;
+and
+6. The registrant's other certifying officers and I have indicated in this
+quarterly report whether or not there were significant changes in internal
+controls or in other factors that could significantly affect internal
+controls subsequent to the date of our most recent evaluation, including any
+corrective actions with regard to significant deficiencies and material
+weaknesses.
+Date:  May 13, 2003
+                                                  /S/ ANDREA JUNG
+                                                -------------------------
+                                                Andrea Jung
+                                                Chief Executive Officer
+
+<Page>
+CERTIFICATION
+I, Robert J. Corti, certify that:
+1. I have reviewed this quarterly report on Form 10-Q of Avon Products, Inc.;
+2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by
+this quarterly report;
+3. Based on my knowledge, the financial statements, and other financial
+information included in this quarterly report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+a) designed such disclosure controls and procedures to ensure that material
+information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this quarterly report is being
+prepared;
+b) evaluated the effectiveness of the registrant's disclosure controls and
+procedures as of a date within 90 days prior to the filing date of this
+quarterly report (the "Evaluation Date"); and
+d) presented in this quarterly report our conclusions about the effectiveness
+of the disclosure controls and procedures based on our evaluation as of the
+Evaluation Date;
+5. The registrant's other certifying officers and I have disclosed, based on
+our most recent evaluation, to the registrant's auditors and the audit
+committee of registrant's board of directors (or persons performing the
+equivalent function):
+a) all significant deficiencies in the design or operation of internal
+controls which could adversely affect the registrant's ability to record,
+process, summarize and report financial data and have identified for the
+registrant's auditors any material weaknesses in internal controls; and
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls;
+and
+6. The registrant's other certifying officers and I have indicated in this
+quarterly report whether or not there were significant changes in internal
+controls or in other factors that could significantly affect internal
+controls subsequent to the date of our most recent evaluation, including any
+corrective actions with regard to significant deficiencies and material
+weaknesses.
+Date: May 13, 2003
+                                               /S/ ROBERT J. CORTI
+                                               ------------------------
+                                               Robert J. Corti
+                                               Chief Financial Officer
+
+<Page>
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
